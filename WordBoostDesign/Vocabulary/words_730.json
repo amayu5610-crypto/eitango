@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "wb-730-0001",
+    "text": "allocate",
+    "partOfSpeech": "verb",
+    "meaning": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "We will allocate additional funds to the customer support team.",
+    "exampleJa": "カスタマーサポートチームに追加資金を割り当てます。",
+    "synonyms": [
+      "assign"
+    ],
+    "derivatives": [
+      "allocation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0002",
+    "text": "assess",
+    "partOfSpeech": "verb",
+    "meaning": "評価する、査定する",
+    "pronunciation": "/əˈsɛs/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The committee will assess each proposal against clear criteria.",
+    "exampleJa": "委員会は明確な基準に照らして各提案を評価します。",
+    "synonyms": [
+      "evaluate"
+    ],
+    "derivatives": [
+      "assessment"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0003",
+    "text": "implement",
+    "partOfSpeech": "verb",
+    "meaning": "実施する、導入する",
+    "pronunciation": "/ˈɪmpləmənt/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "We plan to implement the new procedure next quarter.",
+    "exampleJa": "次の四半期に新しい手順を導入する予定です。",
+    "synonyms": [
+      "carry out"
+    ],
+    "derivatives": [
+      "implementation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0004",
+    "text": "coordinate",
+    "partOfSpeech": "verb",
+    "meaning": "調整する、連携させる",
+    "pronunciation": "/koʊˈɔɹdənət/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Please coordinate delivery times with the warehouse supervisor.",
+    "exampleJa": "倉庫の責任者と配送時間を調整してください。",
+    "synonyms": [
+      "organize"
+    ],
+    "derivatives": [
+      "coordination"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0005",
+    "text": "streamline",
+    "partOfSpeech": "verb",
+    "meaning": "効率化する",
+    "pronunciation": "/ˈstɹimˌlaɪn/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "The team redesigned the form to streamline expense approvals.",
+    "exampleJa": "チームは経費承認を効率化するため申請書を作り直しました。",
+    "synonyms": [
+      "simplify"
+    ],
+    "derivatives": [
+      "streamlined"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0006",
+    "text": "prioritize",
+    "partOfSpeech": "verb",
+    "meaning": "優先する",
+    "pronunciation": "/pɹaɪˈɔɹəˌtaɪz/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "We should prioritize urgent customer requests this morning.",
+    "exampleJa": "今朝は緊急の顧客依頼を優先すべきです。",
+    "synonyms": [
+      "rank"
+    ],
+    "derivatives": [
+      "priority"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0007",
+    "text": "monitor",
+    "partOfSpeech": "verb",
+    "meaning": "監視する、確認し続ける",
+    "pronunciation": "/ˈmɑnətɚ/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Our engineers monitor server performance throughout the day.",
+    "exampleJa": "エンジニアは一日中サーバーの性能を監視しています。",
+    "synonyms": [
+      "track"
+    ],
+    "derivatives": [
+      "monitoring"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0008",
+    "text": "maintain",
+    "partOfSpeech": "verb",
+    "meaning": "維持する、整備する",
+    "pronunciation": "/meɪnˈteɪn/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Regular inspections help maintain a safe working environment.",
+    "exampleJa": "定期点検は安全な職場環境の維持に役立ちます。",
+    "synonyms": [
+      "preserve"
+    ],
+    "derivatives": [
+      "maintenance"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0009",
+    "text": "optimize",
+    "partOfSpeech": "verb",
+    "meaning": "最適化する",
+    "pronunciation": "/ˈɑptəˌmaɪz/",
+    "level": 730,
+    "category": "technology",
+    "exampleEn": "The software helps optimize delivery routes across the city.",
+    "exampleJa": "そのソフトウェアは市内の配送ルートの最適化に役立ちます。",
+    "synonyms": [
+      "improve"
+    ],
+    "derivatives": [
+      "optimization"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0010",
+    "text": "resolve",
+    "partOfSpeech": "verb",
+    "meaning": "解決する",
+    "pronunciation": "/ɹiˈzɑlv/",
+    "level": 730,
+    "category": "customer_service",
+    "exampleEn": "Our specialists resolved the billing issue within two hours.",
+    "exampleJa": "専門担当者は2時間以内に請求の問題を解決しました。",
+    "synonyms": [
+      "settle"
+    ],
+    "derivatives": [
+      "resolution"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0011",
+    "text": "facilitate",
+    "partOfSpeech": "verb",
+    "meaning": "円滑にする、促進する",
+    "pronunciation": "/fəˈsɪləˌteɪt/",
+    "level": 730,
+    "category": "meeting",
+    "exampleEn": "The moderator will facilitate discussion between the two departments.",
+    "exampleJa": "司会者が二つの部門間の議論を円滑に進めます。",
+    "synonyms": [
+      "assist"
+    ],
+    "derivatives": [
+      "facilitation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0012",
+    "text": "clarify",
+    "partOfSpeech": "verb",
+    "meaning": "明確にする",
+    "pronunciation": "/ˈklɛɹəˌfaɪ/",
+    "level": 730,
+    "category": "email",
+    "exampleEn": "Please clarify the delivery conditions in your next email.",
+    "exampleJa": "次のメールで配送条件を明確にしてください。",
+    "synonyms": [
+      "explain"
+    ],
+    "derivatives": [
+      "clarification"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0013",
+    "text": "elaborate",
+    "partOfSpeech": "verb",
+    "meaning": "詳しく説明する",
+    "pronunciation": "/ɪˈlæbɹət/",
+    "level": 730,
+    "category": "meeting",
+    "exampleEn": "Could you elaborate on the expected costs of maintenance?",
+    "exampleJa": "保守の予想費用について詳しく説明していただけますか。",
+    "synonyms": [
+      "expand on"
+    ],
+    "derivatives": [
+      "elaboration"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0014",
+    "text": "recommend",
+    "partOfSpeech": "verb",
+    "meaning": "勧める、推薦する",
+    "pronunciation": "/ˌɹɛkəˈmɛnd/",
+    "level": 730,
+    "category": "sales",
+    "exampleEn": "We recommend the annual plan for customers with multiple offices.",
+    "exampleJa": "複数拠点の顧客には年間プランをお勧めします。",
+    "synonyms": [
+      "suggest"
+    ],
+    "derivatives": [
+      "recommendation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0015",
+    "text": "propose",
+    "partOfSpeech": "verb",
+    "meaning": "提案する",
+    "pronunciation": "/pɹəˈpoʊz/",
+    "level": 730,
+    "category": "meeting",
+    "exampleEn": "The director proposed a shorter weekly planning meeting.",
+    "exampleJa": "部長は週次計画会議の時間短縮を提案しました。",
+    "synonyms": [
+      "suggest"
+    ],
+    "derivatives": [
+      "proposal"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0016",
+    "text": "negotiate",
+    "partOfSpeech": "verb",
+    "meaning": "交渉する",
+    "pronunciation": "/nəˈɡoʊʃiˌeɪt/",
+    "level": 730,
+    "category": "contract",
+    "exampleEn": "Our team will negotiate prices with three potential suppliers.",
+    "exampleJa": "チームは候補となる3社の仕入先と価格交渉します。",
+    "synonyms": [
+      "bargain"
+    ],
+    "derivatives": [
+      "negotiation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0017",
+    "text": "authorize",
+    "partOfSpeech": "verb",
+    "meaning": "許可する、権限を与える",
+    "pronunciation": "/ˈɔθɚˌaɪz/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Only supervisors can authorize payments above this limit.",
+    "exampleJa": "この上限を超える支払いを承認できるのは管理者だけです。",
+    "synonyms": [
+      "approve"
+    ],
+    "derivatives": [
+      "authorization"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0018",
+    "text": "comply",
+    "partOfSpeech": "verb",
+    "meaning": "従う、順守する",
+    "pronunciation": "/kəmˈplaɪ/",
+    "level": 730,
+    "category": "contract",
+    "exampleEn": "All contractors must comply with the building's safety rules.",
+    "exampleJa": "すべての請負業者は建物の安全規則を順守しなければなりません。",
+    "synonyms": [
+      "conform"
+    ],
+    "derivatives": [
+      "compliance"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0019",
+    "text": "verify",
+    "partOfSpeech": "verb",
+    "meaning": "正確か確認する",
+    "pronunciation": "/ˈvɛɹəˌfaɪ/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The accountant will verify the figures before publication.",
+    "exampleJa": "経理担当者は公表前に数値を確認します。",
+    "synonyms": [
+      "confirm"
+    ],
+    "derivatives": [
+      "verification"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0020",
+    "text": "inspect",
+    "partOfSpeech": "verb",
+    "meaning": "検査する、点検する",
+    "pronunciation": "/ˌɪnˈspɛkt/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "Staff inspect every shipment before it leaves the warehouse.",
+    "exampleJa": "従業員は倉庫から出る前にすべての出荷品を検査します。",
+    "synonyms": [
+      "examine"
+    ],
+    "derivatives": [
+      "inspection"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0021",
+    "text": "proposal",
+    "partOfSpeech": "noun",
+    "meaning": "提案書",
+    "pronunciation": "/pɹəˈpoʊzəl/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The proposal outlines three options for reducing operating costs.",
+    "exampleJa": "提案書には運営費を削減する3つの案が示されています。",
+    "synonyms": [
+      "suggestion"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0022",
+    "text": "objective",
+    "partOfSpeech": "noun",
+    "meaning": "目標、目的",
+    "pronunciation": "/əbˈdʒɛktɪv/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Our main objective is to improve response times.",
+    "exampleJa": "主な目標は対応時間を改善することです。",
+    "synonyms": [
+      "goal"
+    ],
+    "derivatives": [
+      "objectively"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0023",
+    "text": "strategy",
+    "partOfSpeech": "noun",
+    "meaning": "戦略",
+    "pronunciation": "/ˈstɹætədʒi/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The sales strategy focuses on smaller regional businesses.",
+    "exampleJa": "営業戦略は地域の中小企業に重点を置いています。",
+    "synonyms": [
+      "plan"
+    ],
+    "derivatives": [
+      "strategic"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0024",
+    "text": "initiative",
+    "partOfSpeech": "noun",
+    "meaning": "新しい取り組み",
+    "pronunciation": "/ˌɪˈnɪʃətɪv/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The recycling initiative has reduced waste in our offices.",
+    "exampleJa": "リサイクルの取り組みにより社内の廃棄物が減りました。",
+    "synonyms": [
+      "new effort"
+    ],
+    "derivatives": [
+      "initiate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0025",
+    "text": "priority",
+    "partOfSpeech": "noun",
+    "meaning": "優先事項",
+    "pronunciation": "/pɹaɪˈɔɹəti/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Improving service quality remains our highest priority this year.",
+    "exampleJa": "サービス品質の向上は今年も最優先事項です。",
+    "synonyms": [
+      "main concern"
+    ],
+    "derivatives": [
+      "prioritize"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0026",
+    "text": "resource",
+    "partOfSpeech": "noun",
+    "meaning": "資源、人員",
+    "pronunciation": "/ˈɹisɔɹs/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The project needs additional resources during the testing phase.",
+    "exampleJa": "そのプロジェクトにはテスト段階で追加の人員が必要です。",
+    "synonyms": [
+      "asset"
+    ],
+    "derivatives": [
+      "resourceful"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0027",
+    "text": "capacity",
+    "partOfSpeech": "noun",
+    "meaning": "収容能力、生産能力",
+    "pronunciation": "/kəˈpæsəti/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Our factory has enough capacity for the larger order.",
+    "exampleJa": "工場にはより大きな注文に対応できる生産能力があります。",
+    "synonyms": [
+      "ability"
+    ],
+    "derivatives": [
+      "capable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0028",
+    "text": "efficiency",
+    "partOfSpeech": "noun",
+    "meaning": "効率",
+    "pronunciation": "/ɪˈfɪʃənsi/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "New software improved the efficiency of invoice processing.",
+    "exampleJa": "新しいソフトウェアによって請求書処理の効率が上がりました。",
+    "synonyms": [
+      "effectiveness"
+    ],
+    "derivatives": [
+      "efficient"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0029",
+    "text": "productivity",
+    "partOfSpeech": "noun",
+    "meaning": "生産性",
+    "pronunciation": "/ˌpɹoʊdəkˈtɪvəti/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Flexible schedules increased productivity for several remote teams.",
+    "exampleJa": "柔軟な勤務予定が複数の在宅チームの生産性を高めました。",
+    "synonyms": [
+      "output"
+    ],
+    "derivatives": [
+      "productive"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0030",
+    "text": "performance",
+    "partOfSpeech": "noun",
+    "meaning": "業績、実績",
+    "pronunciation": "/pɚˈfɔɹməns/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The monthly report compares performance across five sales regions.",
+    "exampleJa": "月次報告書は5つの営業地域の業績を比較しています。",
+    "synonyms": [
+      "results"
+    ],
+    "derivatives": [
+      "perform"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0031",
+    "text": "evaluation",
+    "partOfSpeech": "noun",
+    "meaning": "評価",
+    "pronunciation": "/ɪˌvæljuˈeɪʃən/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Each employee receives a written evaluation twice a year.",
+    "exampleJa": "各従業員は年2回書面による評価を受けます。",
+    "synonyms": [
+      "assessment"
+    ],
+    "derivatives": [
+      "evaluate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0032",
+    "text": "qualification",
+    "partOfSpeech": "noun",
+    "meaning": "資格、適性",
+    "pronunciation": "/ˌkwɑləfəˈkeɪʃən/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Applicants must demonstrate the qualifications listed in the advertisement.",
+    "exampleJa": "応募者は広告に記載された資格を示す必要があります。",
+    "synonyms": [
+      "credential"
+    ],
+    "derivatives": [
+      "qualify"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0033",
+    "text": "recruitment",
+    "partOfSpeech": "noun",
+    "meaning": "採用活動",
+    "pronunciation": "/ɹəˈkɹutmənt/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The recruitment team will visit two universities next month.",
+    "exampleJa": "採用チームは来月2つの大学を訪問します。",
+    "synonyms": [
+      "hiring"
+    ],
+    "derivatives": [
+      "recruit"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0034",
+    "text": "orientation",
+    "partOfSpeech": "noun",
+    "meaning": "導入研修、説明会",
+    "pronunciation": "/ˌɔɹiɛnˈteɪʃən/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "New hires attend an orientation on their first morning.",
+    "exampleJa": "新入社員は初日の午前にオリエンテーションへ参加します。",
+    "synonyms": [
+      "introduction"
+    ],
+    "derivatives": [
+      "orient"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0035",
+    "text": "compensation",
+    "partOfSpeech": "noun",
+    "meaning": "報酬、補償",
+    "pronunciation": "/ˌkɑmpənˈseɪʃən/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The compensation package includes health coverage and paid leave.",
+    "exampleJa": "報酬パッケージには医療保障と有給休暇が含まれます。",
+    "synonyms": [
+      "pay"
+    ],
+    "derivatives": [
+      "compensate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0036",
+    "text": "benefit",
+    "partOfSpeech": "noun",
+    "meaning": "福利厚生、利点",
+    "pronunciation": "/ˈbɛnəfɪt/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The company offers several benefits to full-time employees.",
+    "exampleJa": "会社は正社員に複数の福利厚生を提供しています。",
+    "synonyms": [
+      "advantage"
+    ],
+    "derivatives": [
+      "beneficial"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0037",
+    "text": "workload",
+    "partOfSpeech": "noun",
+    "meaning": "業務量",
+    "pronunciation": "/ˈwɝˌkloʊd/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The manager adjusted workloads during the busy season.",
+    "exampleJa": "マネージャーは繁忙期に各自の業務量を調整しました。",
+    "synonyms": [
+      "amount of work"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0038",
+    "text": "promotion",
+    "partOfSpeech": "noun",
+    "meaning": "昇進、販売促進",
+    "pronunciation": "/pɹəˈmoʊʃən/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Her promotion followed two years of strong project leadership.",
+    "exampleJa": "彼女の昇進は2年間の優れたプロジェクト運営の結果でした。",
+    "synonyms": [
+      "advancement"
+    ],
+    "derivatives": [
+      "promote"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0039",
+    "text": "assignment",
+    "partOfSpeech": "noun",
+    "meaning": "担当業務、任務",
+    "pronunciation": "/əˈsaɪnmənt/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Each analyst received a different assignment for the workshop.",
+    "exampleJa": "各アナリストは研修会で異なる課題を与えられました。",
+    "synonyms": [
+      "task"
+    ],
+    "derivatives": [
+      "assign"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0040",
+    "text": "supervisor",
+    "partOfSpeech": "noun",
+    "meaning": "上司、監督者",
+    "pronunciation": "/ˈsupɚˌvaɪzɚ/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Ask your supervisor before changing the shift schedule.",
+    "exampleJa": "シフト予定を変更する前に上司へ相談してください。",
+    "synonyms": [
+      "manager"
+    ],
+    "derivatives": [
+      "supervise"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0041",
+    "text": "revenue",
+    "partOfSpeech": "noun",
+    "meaning": "売上高",
+    "pronunciation": "/ˈɹɛvəˌnu/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Subscription revenue increased during the second quarter.",
+    "exampleJa": "定期契約による売上高は第2四半期に増加しました。",
+    "synonyms": [
+      "sales income"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0042",
+    "text": "forecast",
+    "partOfSpeech": "noun",
+    "meaning": "予測、見通し",
+    "pronunciation": "/ˈfɔɹˌkæst/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The forecast predicts steady demand through the summer.",
+    "exampleJa": "予測では夏を通じて需要が安定すると見込んでいます。",
+    "synonyms": [
+      "projection"
+    ],
+    "derivatives": [
+      "forecasting"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0043",
+    "text": "estimate",
+    "partOfSpeech": "noun",
+    "meaning": "見積もり",
+    "pronunciation": "/ˈɛstəmət/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The contractor provided an estimate for replacing the windows.",
+    "exampleJa": "請負業者は窓の交換費用の見積もりを出しました。",
+    "synonyms": [
+      "approximation"
+    ],
+    "derivatives": [
+      "estimated"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0044",
+    "text": "transaction",
+    "partOfSpeech": "noun",
+    "meaning": "取引",
+    "pronunciation": "/tɹænˈzækʃən/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Every transaction appears in the account activity report.",
+    "exampleJa": "すべての取引が口座取引明細に表示されます。",
+    "synonyms": [
+      "deal"
+    ],
+    "derivatives": [
+      "transact"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0045",
+    "text": "expenditure",
+    "partOfSpeech": "noun",
+    "meaning": "支出",
+    "pronunciation": "/ɪkˈspɛndətʃɚ/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Travel expenditures were lower than expected this quarter.",
+    "exampleJa": "今四半期の出張支出は予想より少なくなりました。",
+    "synonyms": [
+      "spending"
+    ],
+    "derivatives": [
+      "expend"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0046",
+    "text": "investment",
+    "partOfSpeech": "noun",
+    "meaning": "投資",
+    "pronunciation": "/ˌɪnˈvɛstmənt/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The equipment investment should reduce costs over time.",
+    "exampleJa": "設備投資は長期的に費用を減らす見込みです。",
+    "synonyms": [
+      "capital input"
+    ],
+    "derivatives": [
+      "invest"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0047",
+    "text": "asset",
+    "partOfSpeech": "noun",
+    "meaning": "資産",
+    "pronunciation": "/ˈæˌsɛt/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The company records each vehicle as a fixed asset.",
+    "exampleJa": "会社は各車両を固定資産として記録しています。",
+    "synonyms": [
+      "resource"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0048",
+    "text": "liability",
+    "partOfSpeech": "noun",
+    "meaning": "負債、責任",
+    "pronunciation": "/ˌlaɪəˈbɪlɪti/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The balance sheet lists liabilities separately from assets.",
+    "exampleJa": "貸借対照表には負債と資産が別々に記載されています。",
+    "synonyms": [
+      "obligation"
+    ],
+    "derivatives": [
+      "liable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0049",
+    "text": "outstanding",
+    "partOfSpeech": "adjective",
+    "meaning": "未払いの、未処理の",
+    "pronunciation": "/ˌaʊtˈstændɪŋ/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Please settle the outstanding invoice before the month ends.",
+    "exampleJa": "月末までに未払いの請求書を清算してください。",
+    "synonyms": [
+      "unpaid"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0050",
+    "text": "reimbursement",
+    "partOfSpeech": "noun",
+    "meaning": "払い戻し、経費精算",
+    "pronunciation": "/ˌɹiɪmˈbɝsmənt/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Submit original receipts when requesting travel reimbursement.",
+    "exampleJa": "出張経費の精算を申請する際は領収書の原本を提出してください。",
+    "synonyms": [
+      "repayment"
+    ],
+    "derivatives": [
+      "reimburse"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0051",
+    "text": "procurement",
+    "partOfSpeech": "noun",
+    "meaning": "調達",
+    "pronunciation": "/pɹoʊkˈjʊɹmənt/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "The procurement team is comparing offers from local vendors.",
+    "exampleJa": "調達チームは地元業者からの提案を比較しています。",
+    "synonyms": [
+      "purchasing"
+    ],
+    "derivatives": [
+      "procure"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0052",
+    "text": "inventory",
+    "partOfSpeech": "noun",
+    "meaning": "在庫品、在庫一覧",
+    "pronunciation": "/ˌɪnvənˈtɔɹi/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "The inventory report shows which parts need replenishment.",
+    "exampleJa": "在庫報告書には補充が必要な部品が示されています。",
+    "synonyms": [
+      "stock"
+    ],
+    "derivatives": [
+      "inventory control"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0053",
+    "text": "supplier",
+    "partOfSpeech": "noun",
+    "meaning": "仕入先、供給業者",
+    "pronunciation": "/səˈplaɪɚ/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "Our supplier confirmed the revised delivery date this morning.",
+    "exampleJa": "仕入先は今朝、変更後の納品日を確認しました。",
+    "synonyms": [
+      "vendor"
+    ],
+    "derivatives": [
+      "supply"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0054",
+    "text": "vendor",
+    "partOfSpeech": "noun",
+    "meaning": "販売業者、納入業者",
+    "pronunciation": "/ˈvɛndɚ/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "We selected a vendor with reliable after-sales support.",
+    "exampleJa": "信頼できるアフターサポートを持つ業者を選びました。",
+    "synonyms": [
+      "supplier"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0055",
+    "text": "distribution",
+    "partOfSpeech": "noun",
+    "meaning": "流通、配送",
+    "pronunciation": "/ˌdɪstɹəbˈjuʃən/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "The new distribution center serves three nearby cities.",
+    "exampleJa": "新しい配送センターは近隣の3都市を担当します。",
+    "synonyms": [
+      "delivery"
+    ],
+    "derivatives": [
+      "distribute"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0056",
+    "text": "logistics",
+    "partOfSpeech": "noun",
+    "meaning": "物流、配送管理",
+    "pronunciation": "/ləˈdʒɪstɪks/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "Better logistics planning reduced delays during the holiday season.",
+    "exampleJa": "物流計画の改善で休暇シーズンの遅延が減りました。",
+    "synonyms": [],
+    "derivatives": [
+      "logistical"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0057",
+    "text": "replenish",
+    "partOfSpeech": "verb",
+    "meaning": "補充する",
+    "pronunciation": "/ɹiˈplɛnɪʃ/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "The store will replenish its popular items on Thursday.",
+    "exampleJa": "その店は木曜日に人気商品を補充します。",
+    "synonyms": [
+      "restock"
+    ],
+    "derivatives": [
+      "replenishment"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0058",
+    "text": "backorder",
+    "partOfSpeech": "noun",
+    "meaning": "入荷待ちの注文",
+    "pronunciation": null,
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "The replacement part is currently on backorder from overseas.",
+    "exampleJa": "交換部品は現在海外からの入荷待ちです。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0059",
+    "text": "defect",
+    "partOfSpeech": "noun",
+    "meaning": "欠陥、不具合",
+    "pronunciation": "/ˈdifɛkt/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Quality checks identified a defect in several sample units.",
+    "exampleJa": "品質検査でいくつかの試作品に欠陥が見つかりました。",
+    "synonyms": [
+      "flaw"
+    ],
+    "derivatives": [
+      "defective"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0060",
+    "text": "warranty",
+    "partOfSpeech": "noun",
+    "meaning": "保証",
+    "pronunciation": "/ˈwɔɹənti/",
+    "level": 730,
+    "category": "customer_service",
+    "exampleEn": "The warranty covers repairs for the first twelve months.",
+    "exampleJa": "保証は最初の12か月間の修理を対象とします。",
+    "synonyms": [
+      "guarantee"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0061",
+    "text": "inquiry",
+    "partOfSpeech": "noun",
+    "meaning": "問い合わせ",
+    "pronunciation": "/ˌɪnˈkwaɪˌɹi/",
+    "level": 730,
+    "category": "customer_service",
+    "exampleEn": "The help desk received several inquiries about delivery times.",
+    "exampleJa": "サポート窓口に配送時間について複数の問い合わせがありました。",
+    "synonyms": [
+      "question"
+    ],
+    "derivatives": [
+      "inquire"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0062",
+    "text": "complaint",
+    "partOfSpeech": "noun",
+    "meaning": "苦情",
+    "pronunciation": "/kəmˈpleɪnt/",
+    "level": 730,
+    "category": "customer_service",
+    "exampleEn": "We responded to the customer's complaint within one day.",
+    "exampleJa": "顧客の苦情に1日以内に対応しました。",
+    "synonyms": [
+      "grievance"
+    ],
+    "derivatives": [
+      "complain"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0063",
+    "text": "subscription",
+    "partOfSpeech": "noun",
+    "meaning": "定期契約、購読",
+    "pronunciation": "/səbsˈkɹɪpʃən/",
+    "level": 730,
+    "category": "sales",
+    "exampleEn": "Customers can cancel their subscription from the account page.",
+    "exampleJa": "顧客はアカウント画面から定期契約を解約できます。",
+    "synonyms": [
+      "recurring plan"
+    ],
+    "derivatives": [
+      "subscribe"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0064",
+    "text": "retention",
+    "partOfSpeech": "noun",
+    "meaning": "維持、顧客定着",
+    "pronunciation": "/ɹiˈtɛnʃən/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "Faster support improved customer retention over six months.",
+    "exampleJa": "対応の迅速化により6か月間で顧客維持率が改善しました。",
+    "synonyms": [
+      "preservation"
+    ],
+    "derivatives": [
+      "retain"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0065",
+    "text": "campaign",
+    "partOfSpeech": "noun",
+    "meaning": "販促活動、キャンペーン",
+    "pronunciation": "/kæmˈpeɪn/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "The new campaign targets first-time visitors to our website.",
+    "exampleJa": "新しい販促活動はウェブサイトの初回訪問者を対象としています。",
+    "synonyms": [
+      "promotion"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0066",
+    "text": "audience",
+    "partOfSpeech": "noun",
+    "meaning": "対象読者、顧客層",
+    "pronunciation": "/ˈɑdiəns/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "Our main audience includes owners of small businesses.",
+    "exampleJa": "主な対象顧客には小規模企業の経営者が含まれます。",
+    "synonyms": [
+      "target group"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0067",
+    "text": "competitor",
+    "partOfSpeech": "noun",
+    "meaning": "競合他社",
+    "pronunciation": "/kəmˈpɛtətɚ/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "A competitor recently introduced a cheaper delivery service.",
+    "exampleJa": "競合他社が最近、より安い配送サービスを導入しました。",
+    "synonyms": [
+      "rival"
+    ],
+    "derivatives": [
+      "compete"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0068",
+    "text": "marketplace",
+    "partOfSpeech": "noun",
+    "meaning": "市場、オンライン市場",
+    "pronunciation": "/ˈmɑɹkətˌpleɪs/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "The company sells handmade products through an online marketplace.",
+    "exampleJa": "会社はオンライン市場を通じて手作り製品を販売しています。",
+    "synonyms": [],
+    "derivatives": [
+      "market"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0069",
+    "text": "launch",
+    "partOfSpeech": "noun",
+    "meaning": "発売、開始",
+    "pronunciation": "/ˈlɔntʃ/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "The product launch is planned for early September.",
+    "exampleJa": "製品発売は9月初めに予定されています。",
+    "synonyms": [
+      "introduction"
+    ],
+    "derivatives": [
+      "launched"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0070",
+    "text": "demand",
+    "partOfSpeech": "noun",
+    "meaning": "需要",
+    "pronunciation": "/dɪˈmænd/",
+    "level": 730,
+    "category": "sales",
+    "exampleEn": "Demand for portable chargers rises during the travel season.",
+    "exampleJa": "旅行シーズンには携帯充電器の需要が高まります。",
+    "synonyms": [
+      "need"
+    ],
+    "derivatives": [
+      "demanding"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0071",
+    "text": "trend",
+    "partOfSpeech": "noun",
+    "meaning": "傾向、流行",
+    "pronunciation": "/ˈtɹɛnd/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "The report identifies a trend toward smaller packaging.",
+    "exampleJa": "報告書は小型包装への傾向を示しています。",
+    "synonyms": [
+      "pattern"
+    ],
+    "derivatives": [
+      "trending"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0072",
+    "text": "survey",
+    "partOfSpeech": "noun",
+    "meaning": "調査、アンケート",
+    "pronunciation": "/sɚˈveɪ/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "The survey asked customers about their preferred delivery options.",
+    "exampleJa": "アンケートでは顧客に希望する配送方法を尋ねました。",
+    "synonyms": [
+      "questionnaire"
+    ],
+    "derivatives": [
+      "surveyed"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0073",
+    "text": "response",
+    "partOfSpeech": "noun",
+    "meaning": "回答、反応",
+    "pronunciation": "/ɹɪˈspɑns/",
+    "level": 730,
+    "category": "marketing",
+    "exampleEn": "We received a strong response to the new advertisement.",
+    "exampleJa": "新しい広告に対して大きな反響がありました。",
+    "synonyms": [
+      "reaction"
+    ],
+    "derivatives": [
+      "respond"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0074",
+    "text": "analysis",
+    "partOfSpeech": "noun",
+    "meaning": "分析",
+    "pronunciation": "/əˈnæləsəs/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The analysis revealed delays in the approval process.",
+    "exampleJa": "分析により承認手続きの遅れが明らかになりました。",
+    "synonyms": [
+      "examination"
+    ],
+    "derivatives": [
+      "analyze"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0075",
+    "text": "insight",
+    "partOfSpeech": "noun",
+    "meaning": "洞察、理解",
+    "pronunciation": "/ˈɪnˌsaɪt/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Customer interviews provided useful insights for the design team.",
+    "exampleJa": "顧客への聞き取りは設計チームに有益な洞察を与えました。",
+    "synonyms": [
+      "understanding"
+    ],
+    "derivatives": [
+      "insightful"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0076",
+    "text": "criterion",
+    "partOfSpeech": "noun",
+    "meaning": "判断基準",
+    "pronunciation": "/kɹaɪˈtɪɹiən/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Delivery reliability is an important criterion when choosing suppliers.",
+    "exampleJa": "納品の確実性は仕入先を選ぶ際の重要な判断基準です。",
+    "synonyms": [
+      "standard"
+    ],
+    "derivatives": [
+      "criteria"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0077",
+    "text": "benchmark",
+    "partOfSpeech": "noun",
+    "meaning": "比較基準、指標",
+    "pronunciation": "/ˈbɛntʃˌmɑɹk/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "We use last year's results as our performance benchmark.",
+    "exampleJa": "昨年の結果を業績の比較基準として使用しています。",
+    "synonyms": [
+      "reference point"
+    ],
+    "derivatives": [
+      "benchmarking"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0078",
+    "text": "consistent",
+    "partOfSpeech": "adjective",
+    "meaning": "一貫した、安定した",
+    "pronunciation": "/kənˈsɪstənt/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "The factory maintains consistent quality across all product lines.",
+    "exampleJa": "工場はすべての製品ラインで一貫した品質を保っています。",
+    "synonyms": [
+      "steady"
+    ],
+    "derivatives": [
+      "consistency"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0079",
+    "text": "efficient",
+    "partOfSpeech": "adjective",
+    "meaning": "効率的な",
+    "pronunciation": "/ɪˈfɪʃənt/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "An efficient approval process saves time for every department.",
+    "exampleJa": "効率的な承認手続きはすべての部門の時間を節約します。",
+    "synonyms": [
+      "productive"
+    ],
+    "derivatives": [
+      "efficiency"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0080",
+    "text": "accurate",
+    "partOfSpeech": "adjective",
+    "meaning": "正確な",
+    "pronunciation": "/ˈækjɚət/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Accurate records are essential for preparing monthly financial reports.",
+    "exampleJa": "正確な記録は月次財務報告書の作成に不可欠です。",
+    "synonyms": [
+      "precise"
+    ],
+    "derivatives": [
+      "accuracy"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0081",
+    "text": "reliable",
+    "partOfSpeech": "adjective",
+    "meaning": "信頼できる",
+    "pronunciation": "/ɹɪˈlaɪəbəl/",
+    "level": 730,
+    "category": "logistics",
+    "exampleEn": "We need a reliable carrier for fragile equipment shipments.",
+    "exampleJa": "壊れやすい設備の出荷には信頼できる運送会社が必要です。",
+    "synonyms": [
+      "dependable"
+    ],
+    "derivatives": [
+      "reliability"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0082",
+    "text": "flexible",
+    "partOfSpeech": "adjective",
+    "meaning": "柔軟な",
+    "pronunciation": "/ˈflɛksəbəl/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Flexible hours help employees manage family responsibilities.",
+    "exampleJa": "柔軟な勤務時間は従業員の家庭との両立に役立ちます。",
+    "synonyms": [
+      "adaptable"
+    ],
+    "derivatives": [
+      "flexibility"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0083",
+    "text": "temporary",
+    "partOfSpeech": "adjective",
+    "meaning": "一時的な、臨時の",
+    "pronunciation": "/ˈtɛmpɚˌɛɹi/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The office hired temporary staff for the busy period.",
+    "exampleJa": "オフィスは繁忙期に臨時スタッフを雇いました。",
+    "synonyms": [
+      "short-term"
+    ],
+    "derivatives": [
+      "temporarily"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0084",
+    "text": "mandatory",
+    "partOfSpeech": "adjective",
+    "meaning": "義務的な、必須の",
+    "pronunciation": "/ˈmændəˌtɔɹi/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Safety training is mandatory for all warehouse employees.",
+    "exampleJa": "安全研修はすべての倉庫従業員に義務付けられています。",
+    "synonyms": [
+      "required"
+    ],
+    "derivatives": [
+      "mandate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0085",
+    "text": "optional",
+    "partOfSpeech": "adjective",
+    "meaning": "任意の、選択できる",
+    "pronunciation": "/ˈɑpʃənəl/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "The evening workshop is optional for new employees.",
+    "exampleJa": "夕方の研修会への参加は新入社員の任意です。",
+    "synonyms": [
+      "voluntary"
+    ],
+    "derivatives": [
+      "option"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0086",
+    "text": "confidential",
+    "partOfSpeech": "adjective",
+    "meaning": "機密の",
+    "pronunciation": "/ˌkɑnfəˈdɛnʃəl/",
+    "level": 730,
+    "category": "contract",
+    "exampleEn": "Keep confidential client information out of public folders.",
+    "exampleJa": "機密の顧客情報を公開フォルダーに置かないでください。",
+    "synonyms": [
+      "private"
+    ],
+    "derivatives": [
+      "confidentiality"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0087",
+    "text": "valid",
+    "partOfSpeech": "adjective",
+    "meaning": "有効な、妥当な",
+    "pronunciation": "/ˈvælɪd/",
+    "level": 730,
+    "category": "contract",
+    "exampleEn": "Your access card remains valid until the end of March.",
+    "exampleJa": "入館カードは3月末まで有効です。",
+    "synonyms": [
+      "effective"
+    ],
+    "derivatives": [
+      "validity"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0088",
+    "text": "pending",
+    "partOfSpeech": "adjective",
+    "meaning": "保留中の、未決定の",
+    "pronunciation": "/ˈpɛndɪŋ/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "Several purchase requests are pending the director's approval.",
+    "exampleJa": "複数の購入申請が部長の承認待ちです。",
+    "synonyms": [
+      "awaiting decision"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0089",
+    "text": "eligible",
+    "partOfSpeech": "adjective",
+    "meaning": "資格がある、対象となる",
+    "pronunciation": "/ˈɛlədʒəbəl/",
+    "level": 730,
+    "category": "hr",
+    "exampleEn": "Employees become eligible for the program after six months.",
+    "exampleJa": "従業員は6か月後にその制度の対象となります。",
+    "synonyms": [
+      "qualified"
+    ],
+    "derivatives": [
+      "eligibility"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0090",
+    "text": "substantial",
+    "partOfSpeech": "adjective",
+    "meaning": "かなりの、相当な",
+    "pronunciation": "/səbˈstænʃəl/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The renovation requires a substantial investment in new equipment.",
+    "exampleJa": "その改装には新設備への相当な投資が必要です。",
+    "synonyms": [
+      "considerable"
+    ],
+    "derivatives": [
+      "substantially"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0091",
+    "text": "approximate",
+    "partOfSpeech": "adjective",
+    "meaning": "おおよその",
+    "pronunciation": "/əˈpɹɑksəmət/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Please provide an approximate cost before Friday's planning meeting.",
+    "exampleJa": "金曜日の計画会議までにおおよその費用を示してください。",
+    "synonyms": [
+      "estimated"
+    ],
+    "derivatives": [
+      "approximately"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0092",
+    "text": "consecutive",
+    "partOfSpeech": "adjective",
+    "meaning": "連続した",
+    "pronunciation": "/kənˈsɛkjətɪv/",
+    "level": 730,
+    "category": "operations",
+    "exampleEn": "The service center was busy for three consecutive days.",
+    "exampleJa": "サービスセンターは3日連続で混雑しました。",
+    "synonyms": [
+      "successive"
+    ],
+    "derivatives": [
+      "consecutively"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0093",
+    "text": "annual",
+    "partOfSpeech": "adjective",
+    "meaning": "毎年の、年間の",
+    "pronunciation": "/ˈænjuəl/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "The annual report includes figures from all regional offices.",
+    "exampleJa": "年次報告書には全地域事務所の数値が含まれています。",
+    "synonyms": [
+      "yearly"
+    ],
+    "derivatives": [
+      "annually"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0094",
+    "text": "quarterly",
+    "partOfSpeech": "adjective",
+    "meaning": "四半期ごとの",
+    "pronunciation": "/ˈkwɔɹtɚli/",
+    "level": 730,
+    "category": "finance",
+    "exampleEn": "Quarterly reviews help managers adjust spending plans early.",
+    "exampleJa": "四半期ごとの見直しは支出計画の早期調整に役立ちます。",
+    "synonyms": [
+      "every three months"
+    ],
+    "derivatives": [
+      "quarter"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0095",
+    "text": "preliminary",
+    "partOfSpeech": "adjective",
+    "meaning": "暫定的な、予備的な",
+    "pronunciation": "/pɹɪˈlɪməˌnɛɹi/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The preliminary results will be shared with staff tomorrow.",
+    "exampleJa": "暫定結果は明日スタッフに共有されます。",
+    "synonyms": [
+      "initial"
+    ],
+    "derivatives": [
+      "preliminaries"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0096",
+    "text": "comprehensive",
+    "partOfSpeech": "adjective",
+    "meaning": "包括的な、詳細な",
+    "pronunciation": "/ˌkɑmpɹiˈhɛnsɪv/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The team prepared a comprehensive guide for new partners.",
+    "exampleJa": "チームは新しい提携先向けの包括的なガイドを作成しました。",
+    "synonyms": [
+      "thorough"
+    ],
+    "derivatives": [
+      "comprehensively"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0097",
+    "text": "feasible",
+    "partOfSpeech": "adjective",
+    "meaning": "実行可能な",
+    "pronunciation": "/ˈfizəbəl/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "The engineers believe the proposed timeline is feasible.",
+    "exampleJa": "エンジニアは提案された日程が実行可能だと考えています。",
+    "synonyms": [
+      "practical"
+    ],
+    "derivatives": [
+      "feasibility"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0098",
+    "text": "amendment",
+    "partOfSpeech": "noun",
+    "meaning": "修正条項、改正",
+    "pronunciation": "/əˈmɛndmənt/",
+    "level": 730,
+    "category": "contract",
+    "exampleEn": "The amendment changes the delivery date but not the price.",
+    "exampleJa": "修正条項は価格を変えずに納品日を変更します。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0099",
+    "text": "milestone",
+    "partOfSpeech": "noun",
+    "meaning": "重要な節目、達成目標",
+    "pronunciation": "/ˈmaɪlˌstoʊn/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Completing the prototype is our next major project milestone.",
+    "exampleJa": "試作品の完成は次の大きなプロジェクト目標です。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-730-0100",
+    "text": "deliverable",
+    "partOfSpeech": "noun",
+    "meaning": "納品物、成果物",
+    "pronunciation": "/dɪˈlɪvɚəbəl/",
+    "level": 730,
+    "category": "management",
+    "exampleEn": "Each project deliverable needs approval from the client.",
+    "exampleJa": "プロジェクトの各成果物には顧客の承認が必要です。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  }
+]

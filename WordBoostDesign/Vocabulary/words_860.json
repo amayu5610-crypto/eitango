@@ -1,0 +1,1840 @@
+[
+  {
+    "id": "wb-860-0001",
+    "text": "contingency",
+    "partOfSpeech": "noun",
+    "meaning": "不測の事態、代替策",
+    "pronunciation": "/kənˈtɪndʒənsi/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Our contingency plan includes backup suppliers for critical materials.",
+    "exampleJa": "緊急時の対応計画には重要資材の代替仕入先が含まれます。",
+    "synonyms": [
+      "emergency possibility"
+    ],
+    "derivatives": [
+      "contingent"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0002",
+    "text": "mitigate",
+    "partOfSpeech": "verb",
+    "meaning": "軽減する、和らげる",
+    "pronunciation": "/ˈmɪtəˌɡeɪt/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Additional testing can mitigate risks before the public launch.",
+    "exampleJa": "追加テストは一般公開前のリスクを軽減できます。",
+    "synonyms": [
+      "lessen"
+    ],
+    "derivatives": [
+      "mitigation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0003",
+    "text": "leverage",
+    "partOfSpeech": "verb",
+    "meaning": "活用する",
+    "pronunciation": "/ˈlɛvɚɪdʒ/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "We can leverage existing partnerships to enter new markets.",
+    "exampleJa": "既存の提携関係を活用して新市場に進出できます。",
+    "synonyms": [
+      "utilize"
+    ],
+    "derivatives": [
+      "leveraged"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0004",
+    "text": "reconcile",
+    "partOfSpeech": "verb",
+    "meaning": "照合する、調整する",
+    "pronunciation": "/ˈɹɛkənˌsaɪl/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Accountants reconcile bank statements with internal records each month.",
+    "exampleJa": "経理担当者は毎月銀行明細と内部記録を照合します。",
+    "synonyms": [
+      "match"
+    ],
+    "derivatives": [
+      "reconciliation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0005",
+    "text": "accrue",
+    "partOfSpeech": "verb",
+    "meaning": "発生する、積み上がる",
+    "pronunciation": "/əˈkɹu/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Interest will accrue until the outstanding balance is paid.",
+    "exampleJa": "未払い残高が支払われるまで利息が発生します。",
+    "synonyms": [
+      "accumulate"
+    ],
+    "derivatives": [
+      "accrual"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0006",
+    "text": "amortize",
+    "partOfSpeech": "verb",
+    "meaning": "償却する",
+    "pronunciation": "/ˈæmɚˌtaɪz/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The company will amortize the software cost over five years.",
+    "exampleJa": "会社はソフトウェア費用を5年間で償却します。",
+    "synonyms": [
+      "spread costs over time"
+    ],
+    "derivatives": [
+      "amortization"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0007",
+    "text": "liquidate",
+    "partOfSpeech": "verb",
+    "meaning": "清算する、換金する",
+    "pronunciation": "/ˈlɪkwɪˌdeɪt/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The firm may liquidate unused assets to raise cash.",
+    "exampleJa": "会社は現金確保のため未使用資産を換金する可能性があります。",
+    "synonyms": [
+      "convert into cash"
+    ],
+    "derivatives": [
+      "liquidation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0008",
+    "text": "disburse",
+    "partOfSpeech": "verb",
+    "meaning": "支払う、支出する",
+    "pronunciation": "/dɪsˈbɝs/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The finance team will disburse grants after final approval.",
+    "exampleJa": "財務チームは最終承認後に助成金を支払います。",
+    "synonyms": [
+      "pay out"
+    ],
+    "derivatives": [
+      "disbursement"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0009",
+    "text": "underwrite",
+    "partOfSpeech": "verb",
+    "meaning": "引き受ける、審査する",
+    "pronunciation": "/ˈʌndɚˌɹaɪt/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The insurer will underwrite the policy after reviewing the risks.",
+    "exampleJa": "保険会社はリスク確認後に保険契約を引き受けます。",
+    "synonyms": [],
+    "derivatives": [
+      "underwriting"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0010",
+    "text": "hedge",
+    "partOfSpeech": "verb",
+    "meaning": "リスクを回避する",
+    "pronunciation": "/ˈhɛdʒ/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The importer uses contracts to hedge against currency fluctuations.",
+    "exampleJa": "輸入業者は為替変動を避けるため契約を利用します。",
+    "synonyms": [
+      "offset risk"
+    ],
+    "derivatives": [
+      "hedging"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0011",
+    "text": "procure",
+    "partOfSpeech": "verb",
+    "meaning": "調達する",
+    "pronunciation": "/pɹoʊkˈjʊɹ/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "We must procure additional components before production resumes.",
+    "exampleJa": "生産再開前に追加の部品を調達しなければなりません。",
+    "synonyms": [
+      "obtain"
+    ],
+    "derivatives": [
+      "procurement"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0012",
+    "text": "expedite",
+    "partOfSpeech": "verb",
+    "meaning": "迅速化する",
+    "pronunciation": "/ˈɛkspɪˌdaɪt/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The courier agreed to expedite the urgent medical shipment.",
+    "exampleJa": "配送業者は緊急医療品の発送を迅速化すると同意しました。",
+    "synonyms": [
+      "speed up"
+    ],
+    "derivatives": [
+      "expedited"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0013",
+    "text": "consolidate",
+    "partOfSpeech": "verb",
+    "meaning": "統合する、まとめる",
+    "pronunciation": "/kənˈsɑlɪˌdeɪt/",
+    "level": 860,
+    "category": "operations",
+    "exampleEn": "The company will consolidate three warehouses into one facility.",
+    "exampleJa": "会社は3つの倉庫を1つの施設に統合します。",
+    "synonyms": [
+      "combine"
+    ],
+    "derivatives": [
+      "consolidation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0014",
+    "text": "substantiate",
+    "partOfSpeech": "verb",
+    "meaning": "裏付ける、証明する",
+    "pronunciation": "/səbˈstæntʃiˌeɪt/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "Please substantiate the claim with dated inspection records.",
+    "exampleJa": "日付入りの検査記録でその主張を裏付けてください。",
+    "synonyms": [
+      "support with evidence"
+    ],
+    "derivatives": [
+      "substantiation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0015",
+    "text": "ratify",
+    "partOfSpeech": "verb",
+    "meaning": "正式に承認する",
+    "pronunciation": "/ˈɹætəˌfaɪ/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The board must ratify the agreement before implementation begins.",
+    "exampleJa": "実施開始前に取締役会が契約を正式承認する必要があります。",
+    "synonyms": [
+      "formally approve"
+    ],
+    "derivatives": [
+      "ratification"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0016",
+    "text": "stipulate",
+    "partOfSpeech": "verb",
+    "meaning": "明記する、規定する",
+    "pronunciation": "/ˈstɪpjəˌleɪt/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The contract stipulates payment within thirty calendar days.",
+    "exampleJa": "契約書には30暦日以内の支払いが規定されています。",
+    "synonyms": [
+      "specify"
+    ],
+    "derivatives": [
+      "stipulation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0017",
+    "text": "revoke",
+    "partOfSpeech": "verb",
+    "meaning": "取り消す、撤回する",
+    "pronunciation": "/ɹɪˈvoʊk/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "Administrators may revoke access when an employee leaves.",
+    "exampleJa": "従業員の退職時に管理者はアクセス権を取り消せます。",
+    "synonyms": [
+      "withdraw"
+    ],
+    "derivatives": [
+      "revocation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0018",
+    "text": "waive",
+    "partOfSpeech": "verb",
+    "meaning": "放棄する、免除する",
+    "pronunciation": "/ˈweɪv/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The provider agreed to waive the installation fee.",
+    "exampleJa": "提供会社は設置費用を免除することに同意しました。",
+    "synonyms": [
+      "forgo"
+    ],
+    "derivatives": [
+      "waiver"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0019",
+    "text": "indemnify",
+    "partOfSpeech": "verb",
+    "meaning": "損害を補償する",
+    "pronunciation": "/ˌɪnˈdɛmnəˌfaɪ/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The agreement requires vendors to indemnify clients for certain losses.",
+    "exampleJa": "契約では特定の損失について業者が顧客を補償すると定めています。",
+    "synonyms": [
+      "compensate"
+    ],
+    "derivatives": [
+      "indemnification"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0020",
+    "text": "compliance",
+    "partOfSpeech": "noun",
+    "meaning": "法令順守、規定順守",
+    "pronunciation": "/kəmˈplaɪəns/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The compliance team reviews data handling procedures every quarter.",
+    "exampleJa": "法令順守チームは四半期ごとにデータ取扱手順を確認します。",
+    "synonyms": [
+      "adherence"
+    ],
+    "derivatives": [
+      "comply"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0021",
+    "text": "jurisdiction",
+    "partOfSpeech": "noun",
+    "meaning": "管轄権、管轄区域",
+    "pronunciation": "/ˌdʒʊɹəsˈdɪkʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The contract identifies the jurisdiction for resolving legal disputes.",
+    "exampleJa": "契約書には法的紛争を解決する管轄区域が記されています。",
+    "synonyms": [],
+    "derivatives": [
+      "jurisdictional"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0022",
+    "text": "arbitration",
+    "partOfSpeech": "noun",
+    "meaning": "仲裁",
+    "pronunciation": "/ˌɑɹbɪˈtɹeɪʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "Both parties agreed to arbitration instead of lengthy litigation.",
+    "exampleJa": "両当事者は長期訴訟の代わりに仲裁に同意しました。",
+    "synonyms": [
+      "dispute settlement"
+    ],
+    "derivatives": [
+      "arbitrate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0023",
+    "text": "provision",
+    "partOfSpeech": "noun",
+    "meaning": "条項、規定",
+    "pronunciation": "/pɹəˈvɪʒən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "One provision allows customers to cancel with advance notice.",
+    "exampleJa": "ある条項では事前通知による顧客の解約を認めています。",
+    "synonyms": [
+      "clause"
+    ],
+    "derivatives": [
+      "provisional"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0024",
+    "text": "precedent",
+    "partOfSpeech": "noun",
+    "meaning": "前例、先例",
+    "pronunciation": "/ˈpɹɛsɪdənt/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The legal team examined a precedent from an earlier dispute.",
+    "exampleJa": "法務チームは過去の紛争の先例を調べました。",
+    "synonyms": [
+      "prior example"
+    ],
+    "derivatives": [
+      "precedence"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0025",
+    "text": "remedy",
+    "partOfSpeech": "noun",
+    "meaning": "救済措置、解決手段",
+    "pronunciation": "/ˈɹɛmədi/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The agreement specifies a remedy for repeated delivery failures.",
+    "exampleJa": "契約書は繰り返される納品不履行への救済措置を定めています。",
+    "synonyms": [
+      "corrective measure"
+    ],
+    "derivatives": [
+      "remedial"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0026",
+    "text": "confidentiality",
+    "partOfSpeech": "noun",
+    "meaning": "秘密保持",
+    "pronunciation": "/ˌkɑnfəˌdɛnʃiˈæləti/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "Employees sign a confidentiality agreement before accessing client files.",
+    "exampleJa": "従業員は顧客ファイルを見る前に秘密保持契約に署名します。",
+    "synonyms": [],
+    "derivatives": [
+      "confidential"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0027",
+    "text": "infringement",
+    "partOfSpeech": "noun",
+    "meaning": "権利侵害",
+    "pronunciation": "/ˌɪnˈfɹɪndʒmənt/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The company investigated a possible trademark infringement last month.",
+    "exampleJa": "会社は先月、商標権侵害の可能性を調査しました。",
+    "synonyms": [
+      "violation"
+    ],
+    "derivatives": [
+      "infringe"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0028",
+    "text": "termination",
+    "partOfSpeech": "noun",
+    "meaning": "終了、解約",
+    "pronunciation": "/tɚməˈneɪʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The contract requires written notice before early termination.",
+    "exampleJa": "契約の早期終了には書面通知が必要です。",
+    "synonyms": [],
+    "derivatives": [
+      "terminate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0029",
+    "text": "acquisition",
+    "partOfSpeech": "noun",
+    "meaning": "買収、取得",
+    "pronunciation": "/ˌækwəˈzɪʃən/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The acquisition expanded our operations into two neighboring countries.",
+    "exampleJa": "買収により事業は隣接する2か国へ拡大しました。",
+    "synonyms": [
+      "purchase"
+    ],
+    "derivatives": [
+      "acquire"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0030",
+    "text": "merger",
+    "partOfSpeech": "noun",
+    "meaning": "合併",
+    "pronunciation": "/ˈmɝdʒɚ/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The merger combined two regional logistics companies last year.",
+    "exampleJa": "昨年の合併で地域の物流会社2社が統合されました。",
+    "synonyms": [
+      "combination"
+    ],
+    "derivatives": [
+      "merge"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0031",
+    "text": "stakeholder",
+    "partOfSpeech": "noun",
+    "meaning": "利害関係者",
+    "pronunciation": "/ˈsteɪkˌhoʊldɚ/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Stakeholders requested clearer reporting on the project's environmental impact.",
+    "exampleJa": "利害関係者は事業の環境影響に関するより明確な報告を求めました。",
+    "synonyms": [
+      "interested party"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0032",
+    "text": "governance",
+    "partOfSpeech": "noun",
+    "meaning": "企業統治、管理体制",
+    "pronunciation": "/ˈɡʌvɚnəns/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Strong governance helps the board oversee major investment decisions.",
+    "exampleJa": "強固な管理体制は取締役会の重要投資判断の監督に役立ちます。",
+    "synonyms": [],
+    "derivatives": [
+      "govern"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0033",
+    "text": "subsidiary",
+    "partOfSpeech": "noun",
+    "meaning": "子会社",
+    "pronunciation": "/səbˈsɪdiˌɛɹi/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The subsidiary manages customer support for the European region.",
+    "exampleJa": "その子会社は欧州地域の顧客対応を管理しています。",
+    "synonyms": [
+      "controlled company"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0034",
+    "text": "divestiture",
+    "partOfSpeech": "noun",
+    "meaning": "事業売却、資産処分",
+    "pronunciation": "/dɪˈvɛstɪtʃɚ/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The divestiture allowed management to focus on core services.",
+    "exampleJa": "事業売却により経営陣は主力サービスに集中できました。",
+    "synonyms": [
+      "asset sale"
+    ],
+    "derivatives": [
+      "divest"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0035",
+    "text": "restructuring",
+    "partOfSpeech": "noun",
+    "meaning": "事業再編、組織再編",
+    "pronunciation": "/ɹisˈtɹʌktʃɚɪŋ/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The restructuring moved technical support into a separate division.",
+    "exampleJa": "組織再編によって技術サポートは独立した部門になりました。",
+    "synonyms": [
+      "reorganization"
+    ],
+    "derivatives": [
+      "restructure"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0036",
+    "text": "turnover",
+    "partOfSpeech": "noun",
+    "meaning": "離職率、売上高",
+    "pronunciation": "/ˈtɝˌnoʊvɚ/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "Lower staff turnover reduced recruitment costs this year.",
+    "exampleJa": "従業員の離職率低下で今年の採用費用が減りました。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0037",
+    "text": "succession",
+    "partOfSpeech": "noun",
+    "meaning": "後継、継承",
+    "pronunciation": "/səkˈsɛʃən/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "The board began succession planning for senior leadership roles.",
+    "exampleJa": "取締役会は上級管理職の後継者計画を始めました。",
+    "synonyms": [],
+    "derivatives": [
+      "successor"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0038",
+    "text": "redeployment",
+    "partOfSpeech": "noun",
+    "meaning": "配置転換、再配置",
+    "pronunciation": "/ˌɹidɪˈplɔɪmənt/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "Redeployment helped retain employees during the factory closure.",
+    "exampleJa": "工場閉鎖中の配置転換が従業員の雇用維持に役立ちました。",
+    "synonyms": [],
+    "derivatives": [
+      "redeploy"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0039",
+    "text": "attrition",
+    "partOfSpeech": "noun",
+    "meaning": "自然減、離職",
+    "pronunciation": "/əˈtɹɪʃən/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "The department reduced staffing through attrition rather than layoffs.",
+    "exampleJa": "その部門は解雇ではなく自然減で人員を削減しました。",
+    "synonyms": [
+      "gradual workforce reduction"
+    ],
+    "derivatives": [
+      "attritional"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0040",
+    "text": "remuneration",
+    "partOfSpeech": "noun",
+    "meaning": "報酬、給与",
+    "pronunciation": "/ɹɪmˌjunɚˈeɪʃən/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "The committee reviews executive remuneration before the annual meeting.",
+    "exampleJa": "委員会は年次総会前に役員報酬を検討します。",
+    "synonyms": [
+      "compensation"
+    ],
+    "derivatives": [
+      "remunerate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0041",
+    "text": "appraisal",
+    "partOfSpeech": "noun",
+    "meaning": "査定、評価",
+    "pronunciation": "/əˈpɹeɪzəl/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "Each annual appraisal includes goals for professional development.",
+    "exampleJa": "年次評価には職業能力開発の目標が含まれます。",
+    "synonyms": [
+      "evaluation"
+    ],
+    "derivatives": [
+      "appraise"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0042",
+    "text": "competency",
+    "partOfSpeech": "noun",
+    "meaning": "能力、適性",
+    "pronunciation": "/ˈkɑmpətɪnsi/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "The role requires strong communication and analytical competencies.",
+    "exampleJa": "その職務には高いコミュニケーション能力と分析能力が必要です。",
+    "synonyms": [
+      "capability"
+    ],
+    "derivatives": [
+      "competent"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0043",
+    "text": "proficiency",
+    "partOfSpeech": "noun",
+    "meaning": "熟達、習熟度",
+    "pronunciation": "/pɹəˈfɪʃənsi/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "Candidates must demonstrate proficiency in business writing.",
+    "exampleJa": "応募者はビジネス文書作成の習熟度を示す必要があります。",
+    "synonyms": [
+      "expertise"
+    ],
+    "derivatives": [
+      "proficient"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0044",
+    "text": "accreditation",
+    "partOfSpeech": "noun",
+    "meaning": "認定、認証",
+    "pronunciation": "/əˌkɹɛdəˈteɪʃən/",
+    "level": 860,
+    "category": "hr",
+    "exampleEn": "The training provider received accreditation from an independent organization.",
+    "exampleJa": "研修提供会社は独立機関から認定を受けました。",
+    "synonyms": [
+      "certification"
+    ],
+    "derivatives": [
+      "accredit"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0045",
+    "text": "feasibility",
+    "partOfSpeech": "noun",
+    "meaning": "実現可能性",
+    "pronunciation": "/ˌfizəˈbɪləti/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The feasibility study examined costs and possible delivery delays.",
+    "exampleJa": "実現可能性調査では費用と配送遅延の可能性を検討しました。",
+    "synonyms": [
+      "practicality"
+    ],
+    "derivatives": [
+      "feasible"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0046",
+    "text": "viability",
+    "partOfSpeech": "noun",
+    "meaning": "実行可能性、採算性",
+    "pronunciation": "/vaɪəˈbɪləti/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The committee questioned the long-term viability of the project.",
+    "exampleJa": "委員会はプロジェクトの長期的な採算性に疑問を呈しました。",
+    "synonyms": [
+      "ability to succeed"
+    ],
+    "derivatives": [
+      "viable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0047",
+    "text": "scalability",
+    "partOfSpeech": "noun",
+    "meaning": "拡張性",
+    "pronunciation": "/ˈskeɪləˈbɪlɪti/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "The engineers tested the platform's scalability during peak traffic.",
+    "exampleJa": "エンジニアはアクセス集中時に基盤の拡張性を検証しました。",
+    "synonyms": [
+      "ability to expand"
+    ],
+    "derivatives": [
+      "scalable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0048",
+    "text": "interoperability",
+    "partOfSpeech": "noun",
+    "meaning": "相互運用性",
+    "pronunciation": null,
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "Interoperability allows both systems to exchange records securely.",
+    "exampleJa": "相互運用性により両システムは安全に記録を交換できます。",
+    "synonyms": [],
+    "derivatives": [
+      "interoperable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0049",
+    "text": "redundancy",
+    "partOfSpeech": "noun",
+    "meaning": "冗長性、予備設備",
+    "pronunciation": "/ɹɪˈdʌndənsi/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "Network redundancy keeps the service available during equipment failures.",
+    "exampleJa": "ネットワークの冗長性は機器故障時もサービスを利用可能にします。",
+    "synonyms": [
+      "backup capacity"
+    ],
+    "derivatives": [
+      "redundant"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0050",
+    "text": "vulnerability",
+    "partOfSpeech": "noun",
+    "meaning": "脆弱性",
+    "pronunciation": "/ˌvʌlnɚəˈbɪlɪti/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "The security review identified a vulnerability in the login system.",
+    "exampleJa": "セキュリティ点検でログインシステムの脆弱性が見つかりました。",
+    "synonyms": [
+      "weakness"
+    ],
+    "derivatives": [
+      "vulnerable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0051",
+    "text": "encryption",
+    "partOfSpeech": "noun",
+    "meaning": "暗号化",
+    "pronunciation": "/ɛnˈkɹɪpʃən/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "Encryption protects customer records during transfer between offices.",
+    "exampleJa": "暗号化は拠点間で転送中の顧客記録を保護します。",
+    "synonyms": [
+      "data encoding"
+    ],
+    "derivatives": [
+      "encrypt"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0052",
+    "text": "authentication",
+    "partOfSpeech": "noun",
+    "meaning": "本人認証、認証",
+    "pronunciation": "/ɔˌθɛntəˈkeɪʃən/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "Two-step authentication is required for access to financial data.",
+    "exampleJa": "財務データへのアクセスには二段階認証が必要です。",
+    "synonyms": [],
+    "derivatives": [
+      "authenticate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0053",
+    "text": "latency",
+    "partOfSpeech": "noun",
+    "meaning": "遅延時間",
+    "pronunciation": "/ˈleɪtənsi/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "Engineers reduced network latency before the video service launched.",
+    "exampleJa": "エンジニアは動画サービス開始前にネットワーク遅延を減らしました。",
+    "synonyms": [
+      "delay"
+    ],
+    "derivatives": [
+      "latent"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0054",
+    "text": "throughput",
+    "partOfSpeech": "noun",
+    "meaning": "処理能力、処理量",
+    "pronunciation": "/ˈθɹuˌpʊt/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "The new server increased transaction throughput during busy hours.",
+    "exampleJa": "新サーバーは混雑時の取引処理量を増やしました。",
+    "synonyms": [
+      "processing volume"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0055",
+    "text": "configuration",
+    "partOfSpeech": "noun",
+    "meaning": "設定、構成",
+    "pronunciation": "/kənˌfɪɡjɚˈeɪʃən/",
+    "level": 860,
+    "category": "technology",
+    "exampleEn": "The configuration change requires approval from the security team.",
+    "exampleJa": "設定変更にはセキュリティチームの承認が必要です。",
+    "synonyms": [
+      "setup"
+    ],
+    "derivatives": [
+      "configure"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0056",
+    "text": "discrepancy",
+    "partOfSpeech": "noun",
+    "meaning": "不一致、食い違い",
+    "pronunciation": "/dɪsˈkɹɛpənsi/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Auditors discovered a discrepancy between two inventory reports.",
+    "exampleJa": "監査担当者は二つの在庫報告書の不一致を発見しました。",
+    "synonyms": [
+      "difference"
+    ],
+    "derivatives": [
+      "discrepant"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0057",
+    "text": "variance",
+    "partOfSpeech": "noun",
+    "meaning": "差異、変動",
+    "pronunciation": "/ˈvɛɹiəns/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The finance team investigated the variance between budget and spending.",
+    "exampleJa": "財務チームは予算と支出の差異を調査しました。",
+    "synonyms": [
+      "difference"
+    ],
+    "derivatives": [
+      "vary"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0058",
+    "text": "accrual",
+    "partOfSpeech": "noun",
+    "meaning": "発生主義による計上額",
+    "pronunciation": "/əˈkɹuəl/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The accountant recorded an accrual for unpaid consulting fees.",
+    "exampleJa": "経理担当者は未払いのコンサルティング料を発生額として計上しました。",
+    "synonyms": [],
+    "derivatives": [
+      "accrue"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0059",
+    "text": "depreciation",
+    "partOfSpeech": "noun",
+    "meaning": "減価償却",
+    "pronunciation": "/dɪˌpɹiʃiˈeɪʃən/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Depreciation expenses rose after the company purchased new machinery.",
+    "exampleJa": "会社が新しい機械を購入した後、減価償却費が増えました。",
+    "synonyms": [
+      "loss in value"
+    ],
+    "derivatives": [
+      "depreciate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0060",
+    "text": "solvency",
+    "partOfSpeech": "noun",
+    "meaning": "支払能力、財務健全性",
+    "pronunciation": "/ˈsɔlvənsi/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Lenders reviewed the firm's solvency before approving the loan.",
+    "exampleJa": "貸し手は融資承認前に会社の支払能力を確認しました。",
+    "synonyms": [
+      "ability to pay debts"
+    ],
+    "derivatives": [
+      "solvent"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0061",
+    "text": "liquidity",
+    "partOfSpeech": "noun",
+    "meaning": "流動性、換金容易性",
+    "pronunciation": "/lɪˈkwɪdəti/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The treasurer monitors liquidity to cover upcoming payments.",
+    "exampleJa": "財務責任者は今後の支払いに備えて流動性を監視します。",
+    "synonyms": [
+      "availability of cash"
+    ],
+    "derivatives": [
+      "liquid"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0062",
+    "text": "collateral",
+    "partOfSpeech": "noun",
+    "meaning": "担保",
+    "pronunciation": "/kəˈlætɚəl/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The bank requested additional collateral for the larger loan.",
+    "exampleJa": "銀行はより大きな融資に対して追加の担保を求めました。",
+    "synonyms": [
+      "security"
+    ],
+    "derivatives": [
+      "collateralize"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0063",
+    "text": "receivable",
+    "partOfSpeech": "noun",
+    "meaning": "売掛金、未収金",
+    "pronunciation": "/ɹɪˈsivəbəl/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The aging report lists each overdue receivable by customer.",
+    "exampleJa": "滞留債権一覧には顧客別の期限超過売掛金が記載されています。",
+    "synonyms": [],
+    "derivatives": [
+      "receive"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0064",
+    "text": "payable",
+    "partOfSpeech": "noun",
+    "meaning": "買掛金、未払金",
+    "pronunciation": "/ˈpeɪəbəl/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Our accounts payable team processes vendor invoices every Tuesday.",
+    "exampleJa": "買掛金担当チームは毎週火曜日に仕入先の請求書を処理します。",
+    "synonyms": [],
+    "derivatives": [
+      "pay"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0065",
+    "text": "write-off",
+    "partOfSpeech": "noun",
+    "meaning": "損失処理、帳簿上の償却",
+    "pronunciation": null,
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The proposed write-off requires approval from the finance director.",
+    "exampleJa": "提案された損失処理には財務部長の承認が必要です。",
+    "synonyms": [
+      "accounting removal"
+    ],
+    "derivatives": [
+      "write off"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0066",
+    "text": "reconciliation",
+    "partOfSpeech": "noun",
+    "meaning": "照合、帳尻合わせ",
+    "pronunciation": "/ˌɹɛkənˌsɪliˈeɪʃən/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Monthly reconciliation revealed several duplicate supplier payments.",
+    "exampleJa": "月次照合で仕入先への重複支払いが複数見つかりました。",
+    "synonyms": [],
+    "derivatives": [
+      "reconcile"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0067",
+    "text": "audit",
+    "partOfSpeech": "noun",
+    "meaning": "監査",
+    "pronunciation": "/ˈɔdɪt/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The external audit begins after the annual accounts close.",
+    "exampleJa": "外部監査は年度決算の締め後に始まります。",
+    "synonyms": [
+      "inspection"
+    ],
+    "derivatives": [
+      "auditor"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0068",
+    "text": "materiality",
+    "partOfSpeech": "noun",
+    "meaning": "重要性、重要性の基準",
+    "pronunciation": "/məˌtɪɹiˈælɪti/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Auditors assessed materiality before reviewing the reporting errors.",
+    "exampleJa": "監査担当者は報告誤りの検討前に重要性を評価しました。",
+    "synonyms": [],
+    "derivatives": [
+      "material"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0069",
+    "text": "dilution",
+    "partOfSpeech": "noun",
+    "meaning": "持分希薄化",
+    "pronunciation": "/daɪˈluʃən/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The new share issue may cause dilution for investors.",
+    "exampleJa": "新株発行により投資家の持分が希薄化する可能性があります。",
+    "synonyms": [],
+    "derivatives": [
+      "dilute"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0070",
+    "text": "concession",
+    "partOfSpeech": "noun",
+    "meaning": "譲歩、特別条件",
+    "pronunciation": "/kənˈsɛʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The supplier offered a concession on the annual service fee.",
+    "exampleJa": "仕入先は年間サービス料について譲歩しました。",
+    "synonyms": [
+      "compromise"
+    ],
+    "derivatives": [
+      "concede"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0071",
+    "text": "bottleneck",
+    "partOfSpeech": "noun",
+    "meaning": "障害となる工程、ボトルネック",
+    "pronunciation": "/ˈbɑtəlˌnɛk/",
+    "level": 860,
+    "category": "operations",
+    "exampleEn": "Manual approval became a bottleneck during the sales campaign.",
+    "exampleJa": "手作業の承認が販促期間中のボトルネックになりました。",
+    "synonyms": [
+      "constraint"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0072",
+    "text": "obsolescence",
+    "partOfSpeech": "noun",
+    "meaning": "陳腐化、旧式化",
+    "pronunciation": "/ˌɑbsəˈlɛsəns/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The company reviews stock regularly to prevent product obsolescence.",
+    "exampleJa": "会社は製品の陳腐化を防ぐため定期的に在庫を見直します。",
+    "synonyms": [
+      "becoming outdated"
+    ],
+    "derivatives": [
+      "obsolete"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0073",
+    "text": "perishable",
+    "partOfSpeech": "adjective",
+    "meaning": "傷みやすい、腐敗しやすい",
+    "pronunciation": "/ˈpɛɹɪʃəbəl/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "Perishable products must be delivered in temperature-controlled vehicles.",
+    "exampleJa": "傷みやすい製品は温度管理された車両で配送しなければなりません。",
+    "synonyms": [
+      "easily spoiled"
+    ],
+    "derivatives": [
+      "perish"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0074",
+    "text": "subcontractor",
+    "partOfSpeech": "noun",
+    "meaning": "下請業者",
+    "pronunciation": "/səbˈkɑnˌtɹæktɚ/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The subcontractor handles installation in remote service areas.",
+    "exampleJa": "下請業者は遠隔のサービス地域で設置を担当します。",
+    "synonyms": [
+      "outside contractor"
+    ],
+    "derivatives": [
+      "subcontract"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0075",
+    "text": "consignment",
+    "partOfSpeech": "noun",
+    "meaning": "委託販売品、貨物",
+    "pronunciation": "/kənˈsaɪnmənt/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The consignment arrived with an incomplete customs declaration.",
+    "exampleJa": "貨物は不完全な税関申告書とともに到着しました。",
+    "synonyms": [
+      "shipment"
+    ],
+    "derivatives": [
+      "consign"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0076",
+    "text": "tariff",
+    "partOfSpeech": "noun",
+    "meaning": "関税",
+    "pronunciation": "/ˈtɛɹəf/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The revised tariff increased costs for imported components.",
+    "exampleJa": "改定された関税により輸入部品の費用が増えました。",
+    "synonyms": [
+      "import duty"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0077",
+    "text": "customs",
+    "partOfSpeech": "noun",
+    "meaning": "税関",
+    "pronunciation": "/ˈkʌstəmz/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "Customs requested additional paperwork before releasing the shipment.",
+    "exampleJa": "税関は貨物の引き渡し前に追加書類を求めました。",
+    "synonyms": [],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0078",
+    "text": "freight",
+    "partOfSpeech": "noun",
+    "meaning": "貨物、運賃",
+    "pronunciation": "/ˈfɹeɪt/",
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "Rising freight costs affected prices for overseas customers.",
+    "exampleJa": "貨物運賃の上昇が海外顧客向けの価格に影響しました。",
+    "synonyms": [
+      "cargo"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0079",
+    "text": "lead time",
+    "partOfSpeech": "noun",
+    "meaning": "調達所要期間、リードタイム",
+    "pronunciation": null,
+    "level": 860,
+    "category": "logistics",
+    "exampleEn": "The supplier reduced lead time by keeping spare components nearby.",
+    "exampleJa": "仕入先は予備部品を近くに保管して調達所要期間を短縮しました。",
+    "synonyms": [
+      "processing interval"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0080",
+    "text": "turnaround",
+    "partOfSpeech": "noun",
+    "meaning": "処理所要時間、対応時間",
+    "pronunciation": "/ˈtɝnɚˌaʊnd/",
+    "level": 860,
+    "category": "operations",
+    "exampleEn": "The new process shortened turnaround time for repair requests.",
+    "exampleJa": "新しい手続きは修理依頼の処理時間を短縮しました。",
+    "synonyms": [
+      "completion time"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0081",
+    "text": "backlog",
+    "partOfSpeech": "noun",
+    "meaning": "未処理案件の積み残し",
+    "pronunciation": "/ˈbæˌklɑɡ/",
+    "level": 860,
+    "category": "operations",
+    "exampleEn": "The support team cleared its backlog before the holiday.",
+    "exampleJa": "サポートチームは休暇前に未処理案件を片付けました。",
+    "synonyms": [
+      "pending work"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0082",
+    "text": "escalation",
+    "partOfSpeech": "noun",
+    "meaning": "上位担当者への引き上げ、重大化",
+    "pronunciation": "/ˌɛskəˈleɪʃən/",
+    "level": 860,
+    "category": "customer_service",
+    "exampleEn": "The complaint required escalation to the regional service manager.",
+    "exampleJa": "その苦情は地域サービス責任者への引き継ぎが必要でした。",
+    "synonyms": [
+      "referral to higher authority"
+    ],
+    "derivatives": [
+      "escalate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0083",
+    "text": "retrospective",
+    "partOfSpeech": "noun",
+    "meaning": "振り返り、事後検証",
+    "pronunciation": "/ˌɹɛtɹəˈspɛktɪv/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The team held a retrospective after the product launch.",
+    "exampleJa": "チームは製品発売後に振り返り会議を行いました。",
+    "synonyms": [
+      "review"
+    ],
+    "derivatives": [
+      "retrospect"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0084",
+    "text": "benchmarking",
+    "partOfSpeech": "noun",
+    "meaning": "他社比較、指標比較",
+    "pronunciation": null,
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Benchmarking helped identify gaps in our customer response times.",
+    "exampleJa": "他社比較により顧客対応時間の課題を特定できました。",
+    "synonyms": [
+      "comparative assessment"
+    ],
+    "derivatives": [
+      "benchmark"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0085",
+    "text": "synergy",
+    "partOfSpeech": "noun",
+    "meaning": "相乗効果",
+    "pronunciation": "/ˈsɪnɚdʒi/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "The partnership created synergies between design and manufacturing teams.",
+    "exampleJa": "提携によって設計と製造チームの間に相乗効果が生まれました。",
+    "synonyms": [
+      "combined benefit"
+    ],
+    "derivatives": [
+      "synergistic"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0086",
+    "text": "auditability",
+    "partOfSpeech": "noun",
+    "meaning": "監査可能性",
+    "pronunciation": null,
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Clear records improve auditability across multiple regional offices.",
+    "exampleJa": "明確な記録は複数の地域拠点における監査可能性を高めます。",
+    "synonyms": [],
+    "derivatives": [
+      "auditable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0087",
+    "text": "fiduciary",
+    "partOfSpeech": "adjective",
+    "meaning": "受託者としての、信認義務のある",
+    "pronunciation": "/fəˈduʃiˌɛɹi/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The adviser has fiduciary duties toward the investment clients.",
+    "exampleJa": "助言者には投資顧客に対する信認義務があります。",
+    "synonyms": [
+      "trust-based"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0088",
+    "text": "insolvency",
+    "partOfSpeech": "noun",
+    "meaning": "支払不能、債務超過",
+    "pronunciation": "/ˌɪnˈsɑlvənsi/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The board discussed steps to avoid potential insolvency.",
+    "exampleJa": "取締役会は支払不能を回避するための方策を協議しました。",
+    "synonyms": [
+      "inability to pay"
+    ],
+    "derivatives": [
+      "insolvent"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0089",
+    "text": "impairment",
+    "partOfSpeech": "noun",
+    "meaning": "減損、価値の低下",
+    "pronunciation": "/ˌɪmˈpɛɹmənt/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The accountant recorded an impairment loss on outdated equipment.",
+    "exampleJa": "経理担当者は旧式設備の減損損失を計上しました。",
+    "synonyms": [
+      "loss of value"
+    ],
+    "derivatives": [
+      "impair"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0090",
+    "text": "covenant",
+    "partOfSpeech": "noun",
+    "meaning": "契約上の誓約、財務制限条項",
+    "pronunciation": "/ˈkʌvənənt/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The loan covenant requires regular reporting of cash reserves.",
+    "exampleJa": "融資の財務制限条項は現金準備高の定期報告を求めています。",
+    "synonyms": [
+      "contractual promise"
+    ],
+    "derivatives": [],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0091",
+    "text": "encumbrance",
+    "partOfSpeech": "noun",
+    "meaning": "担保権などの負担",
+    "pronunciation": null,
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The property was sold without any outstanding encumbrance.",
+    "exampleJa": "その不動産は未解除の担保権なしで売却されました。",
+    "synonyms": [
+      "legal burden"
+    ],
+    "derivatives": [
+      "encumber"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0092",
+    "text": "indemnification",
+    "partOfSpeech": "noun",
+    "meaning": "損害補償",
+    "pronunciation": "/ˌɪnˌdɛmnəfɪˈkeɪʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The indemnification clause outlines responsibility for third-party claims.",
+    "exampleJa": "損害補償条項は第三者からの請求に対する責任を定めます。",
+    "synonyms": [
+      "compensation"
+    ],
+    "derivatives": [
+      "indemnify"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0093",
+    "text": "enforceability",
+    "partOfSpeech": "noun",
+    "meaning": "法的強制力、有効性",
+    "pronunciation": "/ɛnˌfɔɹsəˈbɪlɪti/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "Lawyers reviewed the enforceability of the revised contract terms.",
+    "exampleJa": "弁護士は修正後の契約条件の法的強制力を確認しました。",
+    "synonyms": [
+      "legal validity"
+    ],
+    "derivatives": [
+      "enforceable"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0094",
+    "text": "stipulation",
+    "partOfSpeech": "noun",
+    "meaning": "規定、条件",
+    "pronunciation": "/ˌstɪpjəˈleɪʃən/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "A stipulation requires written approval before any subcontracting.",
+    "exampleJa": "ある条件では再委託前に書面による承認が必要です。",
+    "synonyms": [
+      "condition"
+    ],
+    "derivatives": [
+      "stipulate"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0095",
+    "text": "regulatory",
+    "partOfSpeech": "adjective",
+    "meaning": "規制上の",
+    "pronunciation": "/ˈɹɛɡjələˌtɔɹi/",
+    "level": 860,
+    "category": "contract",
+    "exampleEn": "The product requires regulatory approval before international distribution.",
+    "exampleJa": "製品を国際的に流通させる前に規制当局の承認が必要です。",
+    "synonyms": [
+      "related to regulation"
+    ],
+    "derivatives": [
+      "regulation"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0096",
+    "text": "discretionary",
+    "partOfSpeech": "adjective",
+    "meaning": "裁量による、任意の",
+    "pronunciation": "/dɪsˈkɹɛʃəˌnɛɹi/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Managers can approve discretionary spending within a fixed limit.",
+    "exampleJa": "マネージャーは一定の上限内で裁量支出を承認できます。",
+    "synonyms": [
+      "optional"
+    ],
+    "derivatives": [
+      "discretion"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0097",
+    "text": "derivative",
+    "partOfSpeech": "noun",
+    "meaning": "金融派生商品",
+    "pronunciation": "/dɚˈɪvətɪv/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The firm uses a derivative to manage exchange-rate risk.",
+    "exampleJa": "会社は為替リスク管理のため金融派生商品を利用しています。",
+    "synonyms": [
+      "financial contract"
+    ],
+    "derivatives": [
+      "derive"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0098",
+    "text": "volatility",
+    "partOfSpeech": "noun",
+    "meaning": "変動性",
+    "pronunciation": "/ˌvɑləˈtɪləti/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "Currency volatility complicated the budgeting process for overseas purchases.",
+    "exampleJa": "為替の変動性が海外購入の予算編成を難しくしました。",
+    "synonyms": [
+      "fluctuation"
+    ],
+    "derivatives": [
+      "volatile"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0099",
+    "text": "exposure",
+    "partOfSpeech": "noun",
+    "meaning": "リスクにさらされる度合い",
+    "pronunciation": "/ɪkˈspoʊʒɚ/",
+    "level": 860,
+    "category": "finance",
+    "exampleEn": "The report details our exposure to foreign currencies.",
+    "exampleJa": "報告書は外貨に対する当社のリスクを詳述しています。",
+    "synonyms": [
+      "risk level"
+    ],
+    "derivatives": [
+      "expose"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  },
+  {
+    "id": "wb-860-0100",
+    "text": "diversification",
+    "partOfSpeech": "noun",
+    "meaning": "多角化、分散",
+    "pronunciation": "/daɪˌvɝsəfəˈkeɪʃən/",
+    "level": 860,
+    "category": "management",
+    "exampleEn": "Diversification reduced the company's dependence on one major customer.",
+    "exampleJa": "多角化により会社の大口顧客1社への依存が減りました。",
+    "synonyms": [
+      "broadening"
+    ],
+    "derivatives": [
+      "diversify"
+    ],
+    "source": "bundled",
+    "contentVersion": 1
+  }
+]
