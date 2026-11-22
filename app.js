@@ -11,7 +11,7 @@
   const shuffle = list => { const a=[...list]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a; };
   let allWords = [];
   let data = load();
-  let ui = { screen: 'home', tab: 'home', filter: 'all', search: '', selectedId: null, reveal: false, queue: [], pos: 0, sessionStarted: 0, answers: [], quiz: [], quizPos: 0, quizAnswers: [], quizFeedback: null, quizStarted: 0 };
+  let ui = { screen: 'home', tab: 'home', filter: 'all', search: '', listLimit: 100, selectedId: null, reveal: false, queue: [], pos: 0, sessionStarted: 0, answers: [], quiz: [], quizPos: 0, quizAnswers: [], quizFeedback: null, quizStarted: 0 };
   function load() {
     try {
       const saved = JSON.parse(localStorage.getItem(KEY) || '{}');
@@ -34,6 +34,7 @@
   function mastered() { return usableWords().filter(w => {const r=record(w.id);return r?.correctCount>=2 && r.interval>=7;}).length; }
   function head(title,sub='') {return `<h1 class="headline">${esc(title)}</h1>${sub?`<p class="subtitle">${esc(sub)}</p>`:''}`;}
   function btn(text,action,kind='',attrs='') {return `<button class="btn ${kind}" data-action="${action}" ${attrs}>${text}</button>`;}
+  function showVisual(w, eager=false, hideMeaning=false) { return window.WordBoostVisual?.render(w,{eager,hideMeaning}) || ''; }
   function home() {
     const m=mission(), total=usableWords().length, learned=mastered(), pct=total?Math.round(learned/total*100):0;
     return `${head('今日も、3分から。','単語を少しずつ、確実に。')}
@@ -49,24 +50,25 @@
   }
   function wordRows() {
     const q=ui.search.toLowerCase().trim();
-    const words=usableWords().filter(w => (!q || `${w.text} ${w.meaning} ${w.category}`.toLowerCase().includes(q)) && (
+    const filtered=usableWords().filter(w => (!q || `${w.text} ${w.meaning} ${w.category}`.toLowerCase().includes(q)) && (
       ui.filter==='all'||(ui.filter==='favorite'&&record(w.id)?.isFavorite)||(ui.filter==='weak'&&record(w.id)?.wrongCount>0)||(ui.filter==='user'&&w.source==='user')
-    )).slice(0,100);
+    ));
+    const words=filtered.slice(0,ui.listLimit);
     if(!words.length)return `<div class="empty">該当する単語がありません。<br>検索条件を変えてみてください。</div>`;
-    return words.map(w=>`<button class="word-row" data-action="detail" data-id="${esc(w.id)}"><div class="row-main"><div class="en">${esc(w.text)} ${record(w.id)?.isFavorite?'★':''}</div><div class="ja">${esc(w.meaning)}</div></div><span class="pill">${w.source==='user'?'自作':w.level+'点'}</span><span class="arrow">›</span></button>`).join('');
+    return words.map(w=>`<button class="word-row" data-action="detail" data-id="${esc(w.id)}"><div class="row-main"><div class="en">${esc(w.text)} ${record(w.id)?.isFavorite?'★':''}</div><div class="ja">${esc(w.meaning)}</div></div><span class="pill">${w.source==='user'?'自作':w.level+'点'}</span><span class="arrow">›</span></button>`).join('') + (filtered.length>words.length ? `<button class="btn secondary" data-action="more-words" style="margin-top:12px">さらに100語を見る（${words.length}/${filtered.length}語）</button>` : '');
   }
   function wordsView() {
-    return `${head('単語帳','500語と、自分で追加した単語を学べます。')}
+    return `${head('単語帳',`${allWords.filter(w=>w.source!=='user').length}語と、自分で追加した単語を学べます。`)}
       <div class="topline" style="margin:0 0 15px"><strong>${usableWords().length}語の単語帳</strong>${btn('＋ 単語を追加','add-word','small')}</div>
       <input class="search" id="word-search" type="search" placeholder="英単語・日本語訳で検索" value="${esc(ui.search)}" aria-label="単語を検索" />
       <div class="tag-row" style="margin:13px 0 17px">${[['all','すべて'],['favorite','お気に入り'],['weak','苦手'],['user','マイ単語']].map(([k,t])=>`<button class="tag ${ui.filter===k?'active':''}" data-action="filter" data-filter="${k}">${t}</button>`).join('')}</div>
-      <div id="word-list">${wordRows()}</div><p class="small muted center">一覧は最大100語を表示します。検索して絞り込めます。</p>`;
+      <div id="word-list">${wordRows()}</div><p class="small muted center">検索で絞り込み、続きは「さらに100語を見る」から表示できます。</p>`;
   }
   function wordDetail() {
     const w=byId(ui.selectedId); if(!w)return home(); const r=record(w.id);
     return `<button class="back" data-action="back-words">‹ 単語帳へ戻る</button>
       <section class="card word-card"><span class="eyebrow">${esc(w.source==='user'?'マイ単語':w.level+'点向け')} · ${esc(w.partOfSpeech||'')}</span>
-      <div class="detail-word">${esc(w.text)}</div><div class="small muted">${esc(w.pronunciation||'')}</div>
+      <div class="detail-word">${esc(w.text)}</div>${showVisual(w,true)}<div class="small muted">${esc(w.pronunciation||'')}</div>
       <button class="audio-btn" data-action="speak" data-id="${esc(w.id)}" aria-label="発音を聞く">🔊</button>
       <div class="translation">${esc(w.meaning)}</div>
       ${w.exampleEn?`<div class="example">${esc(w.exampleEn)}</div><div class="example-ja">${esc(w.exampleJa)}</div>`:''}</section>
@@ -91,7 +93,7 @@
     return `<button class="back" data-action="finish-session">× 学習を終了</button><div class="topline"><strong>今日の学習</strong><span class="small muted">${ui.pos+1} / ${ui.queue.length}語</span></div>
       <div class="progress" style="margin:13px 0 18px"><div style="width:${progress}%"></div></div>
       <section class="card word-card ${ui.reveal?'revealed':''}"><span class="eyebrow">${w.source==='user'?'マイ単語':w.level+'点向け'} · ${esc(w.partOfSpeech||'')}</span>
-      <div class="flash-word">${esc(w.text)}</div><div class="small muted">${esc(w.pronunciation||'')}</div>
+      <div class="flash-word">${esc(w.text)}</div>${showVisual(w,true,!ui.reveal)}<div class="small muted">${esc(w.pronunciation||'')}</div>
       <button class="audio-btn" data-action="speak" data-id="${esc(w.id)}" aria-label="発音を聞く">🔊</button>
       ${ui.reveal?`<div class="translation">${esc(w.meaning)}</div>${w.exampleEn?`<div class="example">${esc(w.exampleEn)}</div><div class="example-ja">${esc(w.exampleJa)}</div>`:''}${record(w.id)?.forgetStreak>=3?'<div class="pill" style="margin-top:12px">例文付き特別復習</div>':''}`:'<p class="small muted" style="margin-top:16px">意味を思い出してから確認しましょう</p>'}</section>
       ${ui.reveal?`<p class="small muted center">覚えていた度合いを選んでください</p><div class="rating-grid">
@@ -118,7 +120,7 @@
       <section class="card word-card" style="min-height:180px"><span class="eyebrow">次の英単語の意味は？</span><div class="flash-word">${esc(w.text)}</div><button class="audio-btn" data-action="speak" data-id="${esc(w.id)}" aria-label="発音を聞く">🔊</button></section>
       ${row.choices.map((choice,i)=>`<button class="word-row choice ${fb?(choice===w.meaning?'correct':fb.selected===choice?'wrong':''):''}" data-action="choose" data-index="${i}" ${fb?'disabled':''}>
       <span class="badge-letter">${'ABCD'[i]}</span><span>${esc(choice)}</span></button>`).join('')}
-      ${fb?`<div class="feedback ${fb.correct?'':'wrong'}">${fb.correct?'✓ 正解！':'× 不正解'}　正解：<strong>${esc(w.meaning)}</strong><div class="small" style="margin-top:4px">${esc(w.exampleEn||'')}</div></div><div style="margin-top:14px">${btn(ui.quizPos===ui.quiz.length-1?'結果を見る':'次の問題へ','next-quiz')}</div>`:''}`;
+      ${fb?`${showVisual(w,true)}<div class="feedback ${fb.correct?'':'wrong'}">${fb.correct?'✓ 正解！':'× 不正解'}　正解：<strong>${esc(w.meaning)}</strong><div class="small" style="margin-top:4px">${esc(w.exampleEn||'')}</div></div><div style="margin-top:14px">${btn(ui.quizPos===ui.quiz.length-1?'結果を見る':'次の問題へ','next-quiz')}</div>`:''}`;
   }
   function quizResult() {
     const n=ui.quizAnswers.length, correct=ui.quizAnswers.filter(a=>a.correct).length, rate=n?Math.round(correct/n*100):0;
@@ -189,13 +191,14 @@
     navigate('quizresult','test');
   }
   document.addEventListener('click',e=>{
-    const tab=e.target.closest('[data-tab]');if(tab){ui.filter='all';ui.search='';navigate(tab.dataset.tab,tab.dataset.tab);return;}
+    const tab=e.target.closest('[data-tab]');if(tab){ui.filter='all';ui.search='';ui.listLimit=100;navigate(tab.dataset.tab,tab.dataset.tab);return;}
     const b=e.target.closest('[data-action]');if(!b)return;const action=b.dataset.action;
     switch(action){
       case 'settings':navigate('settings');break;
       case 'go-home':navigate('home','home');break;
       case 'back-words':navigate('words','words');break;
-      case 'filter':ui.filter=b.dataset.filter;render();break;
+      case 'filter':ui.filter=b.dataset.filter;ui.listLimit=100;render();break;
+      case 'more-words':ui.listLimit+=100;{const list=$('word-list');if(list)list.innerHTML=wordRows();}break;
       case 'detail':ui.selectedId=b.dataset.id;navigate('detail','words');break;
       case 'add-word':navigate('add','words');break;
       case 'speak':speak(b.dataset.id);break;
@@ -215,7 +218,7 @@
     }
   });
   document.addEventListener('input',e=>{
-    if(e.target.id==='word-search'){ui.search=e.target.value;const list=$('word-list');if(list)list.innerHTML=wordRows();}
+    if(e.target.id==='word-search'){ui.search=e.target.value;ui.listLimit=100;const list=$('word-list');if(list)list.innerHTML=wordRows();}
   });
   document.addEventListener('submit',e=>{
     if(e.target.id==='add-form'){

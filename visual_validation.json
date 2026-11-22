@@ -1,0 +1,17 @@
+{
+  "total": 1569,
+  "visuals": {
+    "photo": 90,
+    "illustration": 1479
+  },
+  "photo_scenes": 16,
+  "standalone_picture_files": 16,
+  "illustration_strategy": "per-word SVG renderer with word-specific icon and Japanese caption",
+  "photo_strategy": "AI-generated 16 contextual scenes reused for concrete photo-appropriate words",
+  "localStorage_key": "wordboost-pwa-progress-v1",
+  "level_counts": {
+    "600": 1332,
+    "730": 137,
+    "860": 100
+  }
+}

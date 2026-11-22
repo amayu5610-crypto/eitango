@@ -16,7 +16,13 @@
       "contingent"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "不測の事態"
+    }
   },
   {
     "id": "wb-860-0002",
@@ -35,7 +41,13 @@
       "mitigation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "軽減する"
+    }
   },
   {
     "id": "wb-860-0003",
@@ -54,7 +66,13 @@
       "leveraged"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "活用する"
+    }
   },
   {
     "id": "wb-860-0004",
@@ -73,7 +91,13 @@
       "reconciliation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "照合する"
+    }
   },
   {
     "id": "wb-860-0005",
@@ -92,7 +116,13 @@
       "accrual"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "発生する"
+    }
   },
   {
     "id": "wb-860-0006",
@@ -111,7 +141,13 @@
       "amortization"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "償却する"
+    }
   },
   {
     "id": "wb-860-0007",
@@ -130,7 +166,13 @@
       "liquidation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "清算する"
+    }
   },
   {
     "id": "wb-860-0008",
@@ -149,7 +191,13 @@
       "disbursement"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "支払う"
+    }
   },
   {
     "id": "wb-860-0009",
@@ -166,7 +214,13 @@
       "underwriting"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "引き受ける"
+    }
   },
   {
     "id": "wb-860-0010",
@@ -185,7 +239,13 @@
       "hedging"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "リスクを回避する"
+    }
   },
   {
     "id": "wb-860-0011",
@@ -204,7 +264,13 @@
       "procurement"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "調達する"
+    }
   },
   {
     "id": "wb-860-0012",
@@ -223,7 +289,13 @@
       "expedited"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "迅速化する"
+    }
   },
   {
     "id": "wb-860-0013",
@@ -242,7 +314,13 @@
       "consolidation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "gear",
+      "scene": null,
+      "caption": "統合する"
+    }
   },
   {
     "id": "wb-860-0014",
@@ -261,7 +339,13 @@
       "substantiation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "裏付ける"
+    }
   },
   {
     "id": "wb-860-0015",
@@ -280,7 +364,13 @@
       "ratification"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "正式に承認する"
+    }
   },
   {
     "id": "wb-860-0016",
@@ -299,7 +389,13 @@
       "stipulation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "明記する"
+    }
   },
   {
     "id": "wb-860-0017",
@@ -318,7 +414,13 @@
       "revocation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "取り消す"
+    }
   },
   {
     "id": "wb-860-0018",
@@ -337,7 +439,13 @@
       "waiver"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "放棄する"
+    }
   },
   {
     "id": "wb-860-0019",
@@ -356,7 +464,13 @@
       "indemnification"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "損害を補償する"
+    }
   },
   {
     "id": "wb-860-0020",
@@ -375,7 +489,13 @@
       "comply"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "check",
+      "scene": null,
+      "caption": "法令順守"
+    }
   },
   {
     "id": "wb-860-0021",
@@ -392,7 +512,13 @@
       "jurisdictional"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "管轄権"
+    }
   },
   {
     "id": "wb-860-0022",
@@ -411,7 +537,13 @@
       "arbitrate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "仲裁"
+    }
   },
   {
     "id": "wb-860-0023",
@@ -430,7 +562,13 @@
       "provisional"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "条項"
+    }
   },
   {
     "id": "wb-860-0024",
@@ -449,7 +587,13 @@
       "precedence"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "前例"
+    }
   },
   {
     "id": "wb-860-0025",
@@ -468,7 +612,13 @@
       "remedial"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "救済措置"
+    }
   },
   {
     "id": "wb-860-0026",
@@ -485,7 +635,13 @@
       "confidential"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "秘密保持"
+    }
   },
   {
     "id": "wb-860-0027",
@@ -504,7 +660,13 @@
       "infringe"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "権利侵害"
+    }
   },
   {
     "id": "wb-860-0028",
@@ -521,7 +683,13 @@
       "terminate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "終了"
+    }
   },
   {
     "id": "wb-860-0029",
@@ -540,7 +708,13 @@
       "acquire"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "買収"
+    }
   },
   {
     "id": "wb-860-0030",
@@ -559,7 +733,13 @@
       "merge"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "合併"
+    }
   },
   {
     "id": "wb-860-0031",
@@ -576,7 +756,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "利害関係者"
+    }
   },
   {
     "id": "wb-860-0032",
@@ -593,7 +779,13 @@
       "govern"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "企業統治"
+    }
   },
   {
     "id": "wb-860-0033",
@@ -610,7 +802,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "子会社"
+    }
   },
   {
     "id": "wb-860-0034",
@@ -629,7 +827,13 @@
       "divest"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "事業売却"
+    }
   },
   {
     "id": "wb-860-0035",
@@ -648,7 +852,13 @@
       "restructure"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "事業再編"
+    }
   },
   {
     "id": "wb-860-0036",
@@ -663,7 +873,13 @@
     "synonyms": [],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "離職率"
+    }
   },
   {
     "id": "wb-860-0037",
@@ -680,7 +896,13 @@
       "successor"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "後継"
+    }
   },
   {
     "id": "wb-860-0038",
@@ -697,7 +919,13 @@
       "redeploy"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "配置転換"
+    }
   },
   {
     "id": "wb-860-0039",
@@ -716,7 +944,13 @@
       "attritional"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "自然減"
+    }
   },
   {
     "id": "wb-860-0040",
@@ -735,7 +969,13 @@
       "remunerate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "報酬"
+    }
   },
   {
     "id": "wb-860-0041",
@@ -754,7 +994,13 @@
       "appraise"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "査定"
+    }
   },
   {
     "id": "wb-860-0042",
@@ -773,7 +1019,13 @@
       "competent"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "能力"
+    }
   },
   {
     "id": "wb-860-0043",
@@ -792,7 +1044,13 @@
       "proficient"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "熟達"
+    }
   },
   {
     "id": "wb-860-0044",
@@ -811,7 +1069,13 @@
       "accredit"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "person",
+      "scene": null,
+      "caption": "認定"
+    }
   },
   {
     "id": "wb-860-0045",
@@ -830,7 +1094,13 @@
       "feasible"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "実現可能性"
+    }
   },
   {
     "id": "wb-860-0046",
@@ -849,7 +1119,13 @@
       "viable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "実行可能性"
+    }
   },
   {
     "id": "wb-860-0047",
@@ -868,7 +1144,13 @@
       "scalable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "拡張性"
+    }
   },
   {
     "id": "wb-860-0048",
@@ -885,7 +1167,13 @@
       "interoperable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "相互運用性"
+    }
   },
   {
     "id": "wb-860-0049",
@@ -904,7 +1192,13 @@
       "redundant"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "冗長性"
+    }
   },
   {
     "id": "wb-860-0050",
@@ -923,7 +1217,13 @@
       "vulnerable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "脆弱性"
+    }
   },
   {
     "id": "wb-860-0051",
@@ -942,7 +1242,13 @@
       "encrypt"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "暗号化"
+    }
   },
   {
     "id": "wb-860-0052",
@@ -959,7 +1265,13 @@
       "authenticate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "本人認証"
+    }
   },
   {
     "id": "wb-860-0053",
@@ -978,7 +1290,13 @@
       "latent"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "遅延時間"
+    }
   },
   {
     "id": "wb-860-0054",
@@ -995,7 +1313,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "処理能力"
+    }
   },
   {
     "id": "wb-860-0055",
@@ -1014,7 +1338,13 @@
       "configure"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "computer",
+      "scene": null,
+      "caption": "設定"
+    }
   },
   {
     "id": "wb-860-0056",
@@ -1033,7 +1363,13 @@
       "discrepant"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "不一致"
+    }
   },
   {
     "id": "wb-860-0057",
@@ -1052,7 +1388,13 @@
       "vary"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "差異"
+    }
   },
   {
     "id": "wb-860-0058",
@@ -1069,7 +1411,13 @@
       "accrue"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "発生主義による計上額"
+    }
   },
   {
     "id": "wb-860-0059",
@@ -1088,7 +1436,13 @@
       "depreciate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "減価償却"
+    }
   },
   {
     "id": "wb-860-0060",
@@ -1107,7 +1461,13 @@
       "solvent"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "支払能力"
+    }
   },
   {
     "id": "wb-860-0061",
@@ -1126,7 +1486,13 @@
       "liquid"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "流動性"
+    }
   },
   {
     "id": "wb-860-0062",
@@ -1145,7 +1511,13 @@
       "collateralize"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "担保"
+    }
   },
   {
     "id": "wb-860-0063",
@@ -1162,7 +1534,13 @@
       "receive"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "売掛金"
+    }
   },
   {
     "id": "wb-860-0064",
@@ -1179,7 +1557,13 @@
       "pay"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "買掛金"
+    }
   },
   {
     "id": "wb-860-0065",
@@ -1198,7 +1582,13 @@
       "write off"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "損失処理"
+    }
   },
   {
     "id": "wb-860-0066",
@@ -1215,7 +1605,13 @@
       "reconcile"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "照合"
+    }
   },
   {
     "id": "wb-860-0067",
@@ -1234,7 +1630,13 @@
       "auditor"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "監査"
+    }
   },
   {
     "id": "wb-860-0068",
@@ -1251,7 +1653,13 @@
       "material"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "重要性"
+    }
   },
   {
     "id": "wb-860-0069",
@@ -1268,7 +1676,13 @@
       "dilute"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "持分希薄化"
+    }
   },
   {
     "id": "wb-860-0070",
@@ -1287,7 +1701,13 @@
       "concede"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "譲歩"
+    }
   },
   {
     "id": "wb-860-0071",
@@ -1304,7 +1724,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "gear",
+      "scene": null,
+      "caption": "障害となる工程"
+    }
   },
   {
     "id": "wb-860-0072",
@@ -1323,7 +1749,13 @@
       "obsolete"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "陳腐化"
+    }
   },
   {
     "id": "wb-860-0073",
@@ -1342,7 +1774,13 @@
       "perish"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "傷みやすい"
+    }
   },
   {
     "id": "wb-860-0074",
@@ -1361,7 +1799,13 @@
       "subcontract"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "下請業者"
+    }
   },
   {
     "id": "wb-860-0075",
@@ -1380,7 +1824,13 @@
       "consign"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "委託販売品"
+    }
   },
   {
     "id": "wb-860-0076",
@@ -1397,7 +1847,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "関税"
+    }
   },
   {
     "id": "wb-860-0077",
@@ -1412,7 +1868,13 @@
     "synonyms": [],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "box",
+      "scene": null,
+      "caption": "税関"
+    }
   },
   {
     "id": "wb-860-0078",
@@ -1429,7 +1891,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "photo",
+      "icon": "box",
+      "scene": 7,
+      "caption": "貨物"
+    }
   },
   {
     "id": "wb-860-0079",
@@ -1446,7 +1914,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "clock",
+      "scene": null,
+      "caption": "調達所要期間"
+    }
   },
   {
     "id": "wb-860-0080",
@@ -1463,7 +1937,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "gear",
+      "scene": null,
+      "caption": "処理所要時間"
+    }
   },
   {
     "id": "wb-860-0081",
@@ -1480,7 +1960,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "gear",
+      "scene": null,
+      "caption": "未処理案件の積み残し"
+    }
   },
   {
     "id": "wb-860-0082",
@@ -1499,7 +1985,13 @@
       "escalate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "phone",
+      "scene": null,
+      "caption": "上位担当者への引き上げ"
+    }
   },
   {
     "id": "wb-860-0083",
@@ -1518,7 +2010,13 @@
       "retrospect"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "振り返り"
+    }
   },
   {
     "id": "wb-860-0084",
@@ -1537,7 +2035,13 @@
       "benchmark"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "他社比較"
+    }
   },
   {
     "id": "wb-860-0085",
@@ -1556,7 +2060,13 @@
       "synergistic"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "相乗効果"
+    }
   },
   {
     "id": "wb-860-0086",
@@ -1573,7 +2083,13 @@
       "auditable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "監査可能性"
+    }
   },
   {
     "id": "wb-860-0087",
@@ -1590,7 +2106,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "受託者としての"
+    }
   },
   {
     "id": "wb-860-0088",
@@ -1609,7 +2131,13 @@
       "insolvent"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "支払不能"
+    }
   },
   {
     "id": "wb-860-0089",
@@ -1628,7 +2156,13 @@
       "impair"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "減損"
+    }
   },
   {
     "id": "wb-860-0090",
@@ -1645,7 +2179,13 @@
     ],
     "derivatives": [],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "契約上の誓約"
+    }
   },
   {
     "id": "wb-860-0091",
@@ -1664,7 +2204,13 @@
       "encumber"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "担保権などの負担"
+    }
   },
   {
     "id": "wb-860-0092",
@@ -1683,7 +2229,13 @@
       "indemnify"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "損害補償"
+    }
   },
   {
     "id": "wb-860-0093",
@@ -1702,7 +2254,13 @@
       "enforceable"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "法的強制力"
+    }
   },
   {
     "id": "wb-860-0094",
@@ -1721,7 +2279,13 @@
       "stipulate"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "paper",
+      "scene": null,
+      "caption": "規定"
+    }
   },
   {
     "id": "wb-860-0095",
@@ -1740,7 +2304,13 @@
       "regulation"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "shield",
+      "scene": null,
+      "caption": "規制上の"
+    }
   },
   {
     "id": "wb-860-0096",
@@ -1759,7 +2329,13 @@
       "discretion"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "裁量による"
+    }
   },
   {
     "id": "wb-860-0097",
@@ -1778,7 +2354,13 @@
       "derive"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "金融派生商品"
+    }
   },
   {
     "id": "wb-860-0098",
@@ -1797,7 +2379,13 @@
       "volatile"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "変動性"
+    }
   },
   {
     "id": "wb-860-0099",
@@ -1816,7 +2404,13 @@
       "expose"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "chart",
+      "scene": null,
+      "caption": "リスクにさらされる度合い"
+    }
   },
   {
     "id": "wb-860-0100",
@@ -1835,6 +2429,12 @@
       "diversify"
     ],
     "source": "bundled",
-    "contentVersion": 1
+    "contentVersion": 2,
+    "visual": {
+      "type": "illustration",
+      "icon": "lightbulb",
+      "scene": null,
+      "caption": "多角化"
+    }
   }
 ]
